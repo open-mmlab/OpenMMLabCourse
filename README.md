@@ -4,7 +4,7 @@ OpenMMLab course index and materials
 ## 《通用视觉框架 OpenMMLab》 公开课
 
 |       |                                 讲座内容                                  |                                                                       讲座视频                                                                       | 代码教学 | 课程中的代码 |
-| :---: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | |     |
+| :---: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :------: |      |
 | 第1讲 | [计算机视觉 OpenMMLab 概述](https://www.bilibili.com/video/BV1R341117FJ/) | [![](https://i1.hdslb.com/bfs/archive/24cc8148270f237cff0738fc8cd50557a6462de0.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1R341117FJ/) |          |      |
 | 第2讲 | [图像分类与 MMClassification](https://www.bilibili.com/video/BV1J341127nQ/) | [![](https://i0.hdslb.com/bfs/archive/237b076c0fd87086827618ca95975d94656fb429.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1J341127nQ/) | [![](https://i0.hdslb.com/bfs/archive/237b076c0fd87086827618ca95975d94656fb429.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1J341127nQ?p=7)|    [lec2.ipynb](codes/lec2.ipynb)   |
 | 第3讲 | [目标检测与 MMDetection (上)](https://www.bilibili.com/video/BV1Vv411A7ZM/) | [![](https://i0.hdslb.com/bfs/archive/8f4077f6572966b6d94726abeb8adb8531ad51b7.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1Vv411A7ZM/) |          |       |
