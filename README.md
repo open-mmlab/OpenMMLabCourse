@@ -37,8 +37,8 @@ OpenMMLab course index and materials
 |       |                                 讲座内容                                  |                                                                       讲座视频                                                                       |       |
 | :---: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :---: |
 | 1 | [OpenMMLab 校园行之华东理工大学](https://www.bilibili.com/video/BV1Gb4y1B7D4/) | [![](https://i1.hdslb.com/bfs/archive/ddd84ad01eb96ad12a272d345d4de3d16d12295b.jpg@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1Gb4y1B7D4/) |       |
-
-
+| 2 | [OpenMMLab 上海交通大学春季课程（上） ](https://www.bilibili.com/video/BV1ou411k7fD/)) | [![](https://i1.hdslb.com/bfs/archive/c8356c5400de7ba50f32a2e26e8c77563e46e353.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1ou411k7fD/) |       |
+| 3 | [OpenMMLab 上海交通大学春季课程（下） ](https://www.bilibili.com/video/BV1NL4y1c7ki/)) | [![](https://i1.hdslb.com/bfs/archive/c8356c5400de7ba50f32a2e26e8c77563e46e353.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1NL4y1c7ki/) |       |
 
 
 
