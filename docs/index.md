@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# OpenMMLabCourse
+OpenMMLab course index and materials
 
-You can use the [editor on GitHub](https://github.com/wangruohui/OpenMMLabCourse/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## 《通用视觉框架 OpenMMLab》 公开课
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+|       |                                 讲座内容                                  |                                                                       讲座视频                                                                       | 代码教学 | 课程中的代码 |
+| :---: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :------: |
+| 第1讲 | [计算机视觉 OpenMMLab 概述](https://www.bilibili.com/video/BV1R341117FJ/) | [![](https://i1.hdslb.com/bfs/archive/24cc8148270f237cff0738fc8cd50557a6462de0.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1R341117FJ/) |          |      |
+| 第2讲 | [图像分类与 MMClassification](https://www.bilibili.com/video/BV1J341127nQ/) | [![](https://i0.hdslb.com/bfs/archive/237b076c0fd87086827618ca95975d94656fb429.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1J341127nQ/) | [![](https://i0.hdslb.com/bfs/archive/237b076c0fd87086827618ca95975d94656fb429.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1J341127nQ?p=7)|    [lec2.ipynb](codes/lec2.ipynb)   |
+| 第3讲 | [目标检测与 MMDetection (上)](https://www.bilibili.com/video/BV1Vv411A7ZM/) | [![](https://i0.hdslb.com/bfs/archive/8f4077f6572966b6d94726abeb8adb8531ad51b7.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1Vv411A7ZM/) | [![](https://i0.hdslb.com/bfs/archive/8f4077f6572966b6d94726abeb8adb8531ad51b7.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1Vv411A7ZM?p=5)  |   [lec3.ipynb](codes/lec3.ipynb) |
+| 第4讲 | [目标检测与 MMDetection (下)](https://www.bilibili.com/video/BV1bM4y1g7Hf/) | [![](https://i2.hdslb.com/bfs/archive/0207b273dfe48d157cd00fe3ca2d9e20c1a86599.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1bM4y1g7Hf/) | [![](https://i2.hdslb.com/bfs/archive/0207b273dfe48d157cd00fe3ca2d9e20c1a86599.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1bM4y1g7Hf?p=5)          |[lec4.ipynb](codes/lec4.ipynb)      |
+| 第5讲 | [语义分割](https://www.bilibili.com/video/BV1944y1b76p/) | [![](https://i0.hdslb.com/bfs/archive/bedab4cff4ced7617ba1d118d7bd0cccd4a502f4.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1944y1b76p/) | [![](https://i0.hdslb.com/bfs/archive/bedab4cff4ced7617ba1d118d7bd0cccd4a502f4.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1944y1b76p?p=5)          |  [lec5.ipynb](codes/lec5.ipynb)     |
+| 第6讲 | [底层视觉（上）](https://www.bilibili.com/video/BV1zq4y1o7ph/) | [![](https://i2.hdslb.com/bfs/archive/01d51d14a091e96f8c42031390f08f62cb18b699.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1zq4y1o7ph/) | [![](https://i2.hdslb.com/bfs/archive/01d51d14a091e96f8c42031390f08f62cb18b699.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1zq4y1o7ph?p=5)          |  [lec6.ipynb](codes/lec6.ipynb)     |
+| 第7讲 | [底层视觉（下）](https://www.bilibili.com/video/BV1cQ4y167KL/) | [![](https://i0.hdslb.com/bfs/archive/3c314ffc38bced8002162319cb75f883b4694445.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1cQ4y167KL/) | [![](https://i0.hdslb.com/bfs/archive/3c314ffc38bced8002162319cb75f883b4694445.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1cQ4y167KL?p=4)        |  [lec7.ipynb](codes/lec7.ipynb)    |
+| 第8讲 | [视频理解](https://www.bilibili.com/video/BV1h34y1D7QH/) | [![](https://i0.hdslb.com/bfs/archive/a1c4b28840991f29c7acabdcbd39dc190f6af2c2.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1h34y1D7QH?p=1)|   [![](https://i0.hdslb.com/bfs/archive/a1c4b28840991f29c7acabdcbd39dc190f6af2c2.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1h34y1D7QH?p=5)         | [lec8.ipynb](codes/lec8.ipynb)      |
+| 第9讲 | 3D目标检测 | [![]()]() |          |        |
+| 第10讲 | 生成模型与 GAN | [![]()]() |    [![](https://i1.hdslb.com/bfs/archive/e0ea4767b305e98ce6039fe623e4cd184923a720.jpg@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1bY4y147kz/)        |     |
+| 第11讲 | 光学字符识别 OCR | [![]()]() |      [![](https://i0.hdslb.com/bfs/archive/bff12b73709666351d614fd5fb286767846b7108.jpg@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1Ua411x7dB/)        |      |
+| 第12讲 | 自监督学习 | [![]()]() |          |       |     |
+| 第13讲 | 视频目标感知 | [![]()]() |     [![](https://i1.hdslb.com/bfs/archive/0058cfa97c39341f8679fd58ef04651db2389c4e.jpg@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1za411Y7Zm/)      |       |
+| 第14讲 | 模型部署 | [![]()]() |          |           |
+| 第15讲 | 人脸、人体关键点检测 | [![]()]() |          |        |
+| 第16讲 | 光流 | [![]()]() |          |      |
+| 第16讲 | 模型压缩 MMRazor | [![]()]() |          |        |
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 代码实践项目
+|       |                                 项目内容                                  |                                                                       代码教学                                                                       |       |
+| :---: | :-----------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---: |
+|第1课| [人像自拍秒变爆款动漫画风](https://www.bilibili.com/video/BV1XL4y1g7in/) | [![](https://i0.hdslb.com/bfs/archive/f9972114f65e0bc121619e51720680c461a7b913.jpg@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1XL4y1g7in/) |       |
+|第2课| [文本识别OCR神器 MMOCR](https://www.bilibili.com/video/BV1Ua411x7dB/) | [![](https://i0.hdslb.com/bfs/archive/bff12b73709666351d614fd5fb286767846b7108.jpg@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1Ua411x7dB/) |       |
+| 第3课 | [玩转 MMTracking 视频感知与追踪算法库](https://www.bilibili.com/video/BV1za411Y7Zm/) | [![](https://i1.hdslb.com/bfs/archive/0058cfa97c39341f8679fd58ef04651db2389c4e.jpg@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1za411Y7Zm/) |       |
+| 第4课 | [生成对抗网络GAN交互式可视化](https://www.bilibili.com/video/BV1R44y1377T/) | [![](https://i0.hdslb.com/bfs/archive/bc3485ace63e5850c3541af0f68a18675cbfdc19.jpg@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1R44y1377T/) |       |
+| 第5课  | [CycleGAN照片转梵高莫奈油画](https://www.bilibili.com/video/BV1wv4y1T71F/) | [![](https://i2.hdslb.com/bfs/archive/56a953accbb30ea29408a105aeb7dd406058e8f1.jpg@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1wv4y1T71F/) |       |
+| 第6课  | [MMGeneration 开源图像生成算法库](https://www.bilibili.com/video/BV1bY4y147kz/) | [![](https://i1.hdslb.com/bfs/archive/e0ea4767b305e98ce6039fe623e4cd184923a720.jpg@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1bY4y147kz/) |       |
+## 校园讲座
+|       |                                 讲座内容                                  |                                                                       讲座视频                                                                       |       |
+| :---: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :---: |
+| 1 | [OpenMMLab 校园行之华东理工大学](https://www.bilibili.com/video/BV1Gb4y1B7D4/) | [![](https://i1.hdslb.com/bfs/archive/ddd84ad01eb96ad12a272d345d4de3d16d12295b.jpg@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1Gb4y1B7D4/) |       |
+| 2 | [OpenMMLab 上海交通大学春季课程（上）](https://www.bilibili.com/video/BV1ou411k7fD/) | [![](https://i1.hdslb.com/bfs/archive/c8356c5400de7ba50f32a2e26e8c77563e46e353.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1ou411k7fD/) |       |
+| 3 | [OpenMMLab 上海交通大学春季课程（下）](https://www.bilibili.com/video/BV1NL4y1c7ki/) | [![](https://i1.hdslb.com/bfs/archive/c8356c5400de7ba50f32a2e26e8c77563e46e353.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1NL4y1c7ki/) |       |
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangruohui/OpenMMLabCourse/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
