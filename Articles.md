@@ -160,7 +160,7 @@
 <details>
 <summary>
 
-# 7. 视频感知 & MMTracking
+# 7. 视频感知 & MMTracking [<img src="https://github.com/open-mmlab/mmtracking/blob/master/resources/mmtrack-logo.png" height="36">](https://github.com/open-mmlab/mmtracking)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
