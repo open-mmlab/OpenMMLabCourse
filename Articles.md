@@ -66,7 +66,7 @@
 <details>
 <summary>
 
-# 3. 图像分类 & MMClassification
+# 3. 图像分类 & MMClassification [<img src="https://github.com/open-mmlab/mmclassification/blob/master/resources/mmcls-logo.png" height="36">](https://github.com/open-mmlab/mmclassification)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
