@@ -1,7 +1,7 @@
 <details>
 <summary>
 
-# 1. 目标检测&MMDetection
+# 1. 目标检测 & MMDetection
 </summary>
 
 | 标题 | 类型 | 知乎链接 | 公众号链接 | 发表日期 |
@@ -16,12 +16,238 @@
 |  |  |  |  |  |
 </details>
 
-# 2. 论文解读
+<details>
+<summary>
 
-# 3. repo初见介绍
+# 2. 3D目标检测 & MMDetection3D
+</summary>
 
-# 4. 常用工具
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
 
-# 5. 社区活动/文化
+<details>
+<summary>
 
-# 6. 算法解读
+# 3. 图像分类 & MMClassification
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 4. 语义分割 & MMSegmentation
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 5. 模型部署 & MMdeploy
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 6. 姿态估计 & MMPose
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 7. 视频感知 & MMTracking
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 8. 光流估计 & MMFlow
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 9. 计算机视觉基础库 & MMCV
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 10. 自监督学习 & MMSelfSup
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 11. 视频和图像编辑 & MMEditing
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 12. Pytorch
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 13. 旋转框检测 & MMRotate
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 14. 模型压缩 & MMRazor
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 15. 人体参数化模型 & MMHuman3D
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 16. 少样本学习 & MMFewShot
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 17. 行为理解 & MMAction2
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 18. 文本检测识别理解 & MMOCR
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+<details>
+<summary>
+
+# 19. 生成模型 & MMGeneration
+</summary>
+
+|  |  |  |  |  |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
+
+
