@@ -131,9 +131,10 @@
 | TorchScript 系列解读 （二）：Torch jit tracer 实现解析 | 文章 | [# TorchScript 解读（二）：Torch jit tracer 实现解析](https://zhuanlan.zhihu.com/p/489090393) | [# TorchScript 系列解读 （二）：Torch jit tracer 实现解析](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247489731&idx=1&sn=edecb4e88c335833ad9d3afec09a8d55&chksm=ebb51021dcc2993797753e4a041ad34d9685dffa6899a4b6925de89af4f255fc732a53412cd2#rd) | 2022/03/28 |
 | TorchScript 系列解读（三）：jit 中的 subgraph rewriter | 文章 | [# TorchScript 解读（三）：jit 中的 subgraph rewriter](https://zhuanlan.zhihu.com/p/493955209) | [# TorchScript 解读：jit 中的 subgraph rewriter](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490059&idx=1&sn=2ca803b55cbfd78e8544362e5bf330c5&chksm=ebb512e9dcc29bff49b2d109025ba13b4cea5a658fd7e57cbb96ef4a931e9120c657e0c4c9b4#rd) | 2022/04/06 |
 | 学懂 ONNX，PyTorch 模型部署再也不怕！ | 文章 | [# 模型部署入门教程（三）：PyTorch 转 ONNX 详解](https://zhuanlan.zhihu.com/p/498425043) | [# 学懂 ONNX，PyTorch 模型部署再也不怕！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490166&idx=1&sn=e277c9e44cc0826a738543427bf161a7&chksm=ebb51294dcc29b8267fd1c65995e6f95de3f33caa7f70689d5a1cd6241418131edddd722ce0a#rd) | 2022/04/14 |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 视觉算法的工业部署及落地方面的技术知识，怎么学？ | 问答 | [# 视觉算法的工业部署及落地方面的技术知识，怎么学？](https://www.zhihu.com/answer/2414724618) |  | 2022/03/30 |
+| 如何评价框架共用的模型文件格式ONNX？ | 问答 | [# 如何评价框架共用的模型文件格式ONNX？](https://www.zhihu.com/answer/2401790053) |  | 2022/03/22 |
+| 如何选择深度学习推理框架？ | 问答 | [# 如何选择深度学习推理框架？](https://www.zhihu.com/answer/2395418101) |  | 2022/03/18 |
+| 如何用 C++ 部署深度学习模型？ | 问答 | [# 如何用 C++ 部署深度学习模型？](https://www.zhihu.com/answer/2393173576) |  | 2022/03/17 |
 </details>
 
 <details>
