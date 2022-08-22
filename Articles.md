@@ -140,7 +140,7 @@
 <details>
 <summary>
 
-# 6. 姿态估计 & MMPose
+# 6. 姿态估计 & MMPose [<img src="https://github.com/open-mmlab/mmpose/blob/master/resources/mmpose-logo.png" height="36">](https://github.com/open-mmlab/mmpose)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
