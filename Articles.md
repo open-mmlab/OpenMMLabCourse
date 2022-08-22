@@ -1,7 +1,7 @@
 <details>
 <summary>
 
-# 1. 目标检测 & MMDetection
+# 1. [目标检测 & MMDetection](https://github.com/open-mmlab/mmdetection)
 </summary>
 
 | 标题 | 类型 | 知乎链接 | 公众号链接 | 发表日期 |
