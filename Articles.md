@@ -48,7 +48,7 @@
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
-| MMDetection3D | "3Dfy" A General 2D Detector ：纯视觉3D检测再思考 | 文章 | [# "3Dfy" A General 2D Detector: 纯视觉 3D 检测再思考](https://zhuanlan.zhihu.com/p/400191167) | [# MMDetection3D - "3Dfy" A General 2D Detector ：纯视觉3D检测再思考](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247483965&idx=1&sn=14b28b591ce27d36b9b0e7ced64c2bf4&chksm=ebb50adfdcc283c9709c0f7d1b340501f59c5ca3d19429aa4b536c2a6bd2d1e615f71d725bec&token=1125533908&lang=zh_CN#rd) | 2021/08/19 |
+| MMDetection3D - "3Dfy" A General 2D Detector ：纯视觉3D检测再思考 | 文章 | [# "3Dfy" A General 2D Detector: 纯视觉 3D 检测再思考](https://zhuanlan.zhihu.com/p/400191167) | [# MMDetection3D - "3Dfy" A General 2D Detector ：纯视觉3D检测再思考](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247483965&idx=1&sn=14b28b591ce27d36b9b0e7ced64c2bf4&chksm=ebb50adfdcc283c9709c0f7d1b340501f59c5ca3d19429aa4b536c2a6bd2d1e615f71d725bec&token=1125533908&lang=zh_CN#rd) | 2021/08/19 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 </details>
