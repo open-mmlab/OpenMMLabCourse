@@ -1,5 +1,8 @@
-# 1. 文章
+<details>
+<summary>
 
+# 1. 文章
+</summary>
 <details>
 <summary>
 
@@ -22,6 +25,7 @@
 ## 1.5 社区活动/文化
 
 ## 1.6 算法解读
+</details>
 
 # 2. 问答
 
