@@ -13,6 +13,15 @@
 | 小白都能看懂！手把手教你使用混淆矩阵分析目标检测 | 文章 | [# 小白都能看懂！手把手教你使用混淆矩阵分析目标检测](https://zhuanlan.zhihu.com/p/443499860) | [# 小白都能看懂！手把手教你使用混淆矩阵分析目标检测](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485584&idx=1&sn=3b3deb4a025cea7d089a4759d40e7055&chksm=ebb50072dcc28964c76882668f8c3609589afcd6a74b593622a2ff002964adff24eeb52eb851&token=1125533908&lang=zh_CN#rd) | 2021/12/09 |
 | 超详细！手把手带你轻松掌握 MMDetection 整体构建流程(一) | 文章 | [# 轻松掌握 MMDetection 整体构建流程(一)](https://zhuanlan.zhihu.com/p/337375549) | [# 超详细！手把手带你轻松掌握 MMDetection 整体构建流程(一)](http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247486196&idx=1&sn=b6e19294d4e00f0c2bc3be7feff81f7f&chksm=ebb50216dcc28b00a38ae83f8f8d01194d354347c77545af3f38aaa0fb2e1f41f630ddb910d9#rd) | 2022/01/24 |
 | 超详细！手把手带你轻松掌握 MMDetection 整体构建流程(二） | 文章 | [# 轻松掌握 MMDetection 整体构建流程(二)](https://zhuanlan.zhihu.com/p/341954021) | [# 超详细！手把手带你轻松掌握 MMDetection 整体构建流程(二）](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247486381&idx=1&sn=62b1ee552ce9d010e27c8e53e78a9064&chksm=ebb5034fdcc28a59e8b03e74fa4d38781b201580099eebdcc1324f96bae378d9deca72e09677#rd) | 2022/01/25 |
+| 是时候该学会 MMDetection 进阶之非典型操作技能了（一） | 文章 | [# 是时候该学会 MMDetection 进阶之非典型操作技能（一）](https://zhuanlan.zhihu.com/p/473707171) | [# 是时候该学会 MMDetection 进阶之非典型操作技能了（一）](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247488014&idx=1&sn=076c9eb3fa122c1d99723cc8492cc8fc&chksm=ebb51aecdcc293fa2723aad700ff7e9239e52d8bc82175c4a25ac8a449e44c418bb931a9a663#rd) | 2022/02/28 |
+| ResNet 高精度预训练模型在 MMDetection 中的最佳实践 | 文章 | [# ResNet 高精度预训练模型在 MMDetection 中的最佳实践](https://zhuanlan.zhihu.com/p/494609932) | [# ResNet 高精度预训练模型在 MMDetection 中的最佳实践](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490061&idx=1&sn=28a017347f43792bcbb3e497c3fd67a0&chksm=ebb512efdcc29bf9815cdd30dd2da441276ccccc7b88d39ceb12a8dafc6dd5ec0bc25433636b#rd) | 2022/04/07 |
+| OpenMMLab 上海交大精品课带你 4 小时入门深度学习 | 文章 | [# OpenMMLab 上海交大精品课带你 4 小时入门深度学习](https://zhuanlan.zhihu.com/p/507386830) | [# OpenMMLab 上海交大精品课带你 4 小时入门深度学习](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490457&idx=1&sn=51fa1026cbb4eb85e67e8b7b4ba44d54&chksm=ebb5137bdcc29a6d4017c002bbbb4e6d37afe866333d1c3672507689d6bcf632adc44c75274a#rd) | 2022/04/29 |
+| 超 10 个点的提升！Open Images 在 MMDetection 的实现 | 文章 | [# 超 10 个点的提升！ Open Images 在 MMDetection 的实现](https://zhuanlan.zhihu.com/p/516419148) | [# 超 10 个点的提升！Open Images 在 MMDetection 的实现](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490964&idx=1&sn=7e82dcfc008f9883a65c09feaff5476e&chksm=ebb51576dcc29c603506b453c6b51f0f4fd44e835409271ab638eec98a84a246789352ffba12#rd) | 2022/05/18 |
+| CVPR 2022 - Group R-CNN：化框为点，简化物体检测数据标注 | 文章 | [# CVPR2022 - Group R-CNN : 化框为点，简化物体检测数据标注](https://zhuanlan.zhihu.com/p/522683049) | [# CVPR 2022 - Group R-CNN：化框为点，简化物体检测数据标注](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247491480&idx=1&sn=f56bc1527a4216c2062a61a5d640d83f&chksm=ebb5177adcc29e6cc561198cbcbb19f85e3fc267728b3f6eee9e023f1e9b170697aa4a0e2437&token=1125533908&lang=zh_CN#rd) | 2022/05/31 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 </details>
