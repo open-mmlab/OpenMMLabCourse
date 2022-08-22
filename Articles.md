@@ -2,6 +2,7 @@
 <summary>
 
 # 1. 目标检测 & MMDetection [![](https://github.com/open-mmlab/mmdetection/blob/master/resources/mmdet-logo.png)](https://github.com/open-mmlab/mmdetection)
+# 1. 目标检测 & MMDetection [<img src="https://github.com/open-mmlab/mmdetection/blob/master/resources/mmdet-logo.png" width="200">](https://github.com/open-mmlab/mmdetection)
 </summary>
 
 | 标题 | 类型 | 知乎链接 | 公众号链接 | 发表日期 |
