@@ -6,10 +6,11 @@
 
 | 标题 | 类型 | 知乎链接 | 公众号链接 | 发表日期 |
 |--|--|--|--|--|
-| YOLOX  MMDetection 复现保姆级解析 | 文章 | [# YOLOX 在 MMDetection 中复现全流程解析](https://zhuanlan.zhihu.com/p/398545304) | [# YOLOX  MMDetection 复现保姆级解析](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247483817&idx=1&sn=bc23f34108a2763e5379d8b236272a92&chksm=ebb5094bdcc2805d35eeeb1905b4ef6a01b4acebe8fff0b7d079c7de437ddf8b2c713557e827&token=1125533908&lang=zh_CN#rd) | 2021/08/11 |
+| YOLOX - MMDetection 复现保姆级解析 | 文章 | [# YOLOX 在 MMDetection 中复现全流程解析](https://zhuanlan.zhihu.com/p/398545304) | [# YOLOX - MMDetection 复现保姆级解析](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247483817&idx=1&sn=bc23f34108a2763e5379d8b236272a92&chksm=ebb5094bdcc2805d35eeeb1905b4ef6a01b4acebe8fff0b7d079c7de437ddf8b2c713557e827&token=1125533908&lang=zh_CN#rd) | 2021/08/11 |
+| MMDetection - 它来了它来了！两款轻量级检测模型上线了！ | 文章 | [喂喂喂！你可以减重了！小模型 - MMDetection 新增SSDLite 、 MobileNetV2YOLOV3 两大经典算法](https://zhuanlan.zhihu.com/p/402781143) |  | 2021/08/23 |
+| 大佬养成 - 聆听 YOLOX 复现社区贡献者故事 | 文章 | [# OpenMMLab 社区专访之 YOLOX 复现篇 ](https://zhuanlan.zhihu.com/p/405913343) | [大佬养成 - 聆听 YOLOX 复现社区贡献者故事](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484163&idx=1&sn=826a9281905139ae77638733e3f9fd9c&chksm=ebb50be1dcc282f73c4c39148eb2bd83684bf4252d8cf8ca23b30044af54b3987e60f3dbcab7&token=1125533908&lang=zh_CN#rd) | 2021/09/01 |
 | 小白都能看懂！手把手教你使用混淆矩阵分析目标检测 | 文章 | [# 小白都能看懂！手把手教你使用混淆矩阵分析目标检测](https://zhuanlan.zhihu.com/p/443499860) | [# 小白都能看懂！手把手教你使用混淆矩阵分析目标检测](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485584&idx=1&sn=3b3deb4a025cea7d089a4759d40e7055&chksm=ebb50072dcc28964c76882668f8c3609589afcd6a74b593622a2ff002964adff24eeb52eb851&token=1125533908&lang=zh_CN#rd) | 2021/12/09 |
 | 超详细！手把手带你轻松掌握 MMDetection 整体构建流程(一) | 文章 | [# 轻松掌握 MMDetection 整体构建流程(一)](https://zhuanlan.zhihu.com/p/337375549) | [# 超详细！手把手带你轻松掌握 MMDetection 整体构建流程(一)](http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247486196&idx=1&sn=b6e19294d4e00f0c2bc3be7feff81f7f&chksm=ebb50216dcc28b00a38ae83f8f8d01194d354347c77545af3f38aaa0fb2e1f41f630ddb910d9#rd) | 2022/01/24 |
-|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
