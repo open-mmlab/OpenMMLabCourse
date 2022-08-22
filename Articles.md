@@ -145,9 +145,15 @@
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| MMPose - 关于自顶向下 2D HPE 算法的，全都在这里啦！ | 文章 | [# 自顶向下的 2D 人体姿态估计](https://zhuanlan.zhihu.com/p/394060630) | [# MMPose - 关于自顶向下 2D HPE 算法的，全都在这里啦！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484219&idx=1&sn=e859be46b6cb129ebc828d99e1442fea&chksm=ebb50bd9dcc282cf236e7fc987c9cf36c63762a3ddde2dff65dc50d7fee0c92203f126ed3ea7&token=1125533908&lang=zh_CN#rd) | 2021/09/06 |
+| AI 黑玉断续膏: 自底向上的二维人体姿态估计 | 文章 | [# 来咯来咯！AI 黑玉断续膏：自底向上的二维人体姿态估计](https://zhuanlan.zhihu.com/p/410284435) | [# AI 黑玉断续膏: 自底向上的二维人体姿态估计](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484362&idx=1&sn=9e65269ef35f8db628d758b384a93ecb&chksm=ebb50b28dcc2823e2abdc6e4dc59622f11f7f86dc192da36851e2ec5a6e1a8fa1ff85399ee59&token=1125533908&lang=zh_CN#rd) | 2021/09/14 |
+| 3D 人体姿态估计简述 | 文章 | [# 3D 人体姿态估计简述](https://zhuanlan.zhihu.com/p/400922771) | [# 3D 人体姿态估计简述](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247486099&idx=1&sn=f23d1af5a21f0cca87a5b5d513476ca2&chksm=ebb50271dcc28b674bf301475cbd4c7c90019726b748b75026925141b88c716c426d7bf77c94#rd) | 2022/01/18 |
+| 一户一墩？墩墩生成器安排了！ | 文章 | [# 一户一墩？墩墩生成器安排了！](https://zhuanlan.zhihu.com/p/466281786) | [# 一户一墩？墩墩生成器安排了！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247487561&idx=1&sn=1463e56e31f358fbc32443389a4ee0b4&chksm=ebb518abdcc291bd44068352592ea7af62778a41bb725f430b8f7aaa850016390cdddb83d96a#rd) | 2022/02/11 |
+| 抓住情人节的尾巴，和 TA 炫一手独家高级操作！ | 文章 | [# 抓住情人节的尾巴，和 Ta 炫一手独家高级操作！](https://zhuanlan.zhihu.com/p/467408110) | [# 抓住情人节的尾巴，和 TA 炫一手独家高级操作！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247487643&idx=1&sn=d1bee0c7b5f408f553805e1663cb047d&chksm=ebb51879dcc2916fdd78196998a29bb81e2ac559355aabfaeb8ab1718b4f40b763184a4f61a9#rd) | 2022/02/14 |
+| 一学就会！快来查收这份 MMPose 学习指南 | 文章 | [# MMPose 初体验：推理、导出 ONNX、转 MNN](https://zhuanlan.zhihu.com/p/485549154) | [# 一学就会！快来查收这份 MMPose 学习指南](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247489596&idx=1&sn=9fed549c0e143032a0b8d948def90a87&chksm=ebb510dedcc299c8bea8ac260b18557fcf643367804aa0383eac795924eaa7503d1dc9e10ca2#rd) | 2022/03/22 |
+| 超详细技术指南，带你玩转 MMPose 姿态估计创意大赛 | 文章 | [# 【预告】社区开放麦第 7 期：MMPose 姿态估计创意大赛技术指南](https://zhuanlan.zhihu.com/p/522183234) | [# 超详细技术指南，带你玩转 MMPose 姿态估计创意大赛](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247491474&idx=1&sn=b39e64640ced0b4a635951fc52cb54bb&chksm=ebb51770dcc29e66f7130cc55f01a38458c4b5269aa1bf3f4ca2d1b3d27e8d78919cfb6f5114&token=1125533908&lang=zh_CN#rd) | 2022/05/30 |
+| 特效大片背后的多视角 3D 人体姿态估计技术 | 文章 | [# 特效大片背后的多视角 3D 人体姿态估计技术](https://zhuanlan.zhihu.com/p/529219789) | [# 特效大片背后的多视角 3D 人体姿态估计技术](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247492853&idx=1&sn=480b7d94e40235ed369683f5d18dfa91&chksm=ebb6ec17dcc16501c36fa9d5f2b26b0970642448c6103cceb25404a63248c888f3f84e255520&token=1125533908&lang=zh_CN#rd) | 2022/06/15 |
+| 作者亲临！带你学习 CVPR 前沿姿态估计论文 | 文章 | [# 【回放】 社区开放麦第 2 期：学习 CVPR 前沿姿态估计论文](https://www.zhihu.com/zvideo/1504457861418061824) | [# 作者亲临！带你学习 CVPR 前沿姿态估计论文](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490336&idx=1&sn=84795ff8de8146fa433bc0e450aa920e&chksm=ebb513c2dcc29ad4bb9555ae46ce844c157c304bc8854886a05a9e8867f122ffc0646d974223#rd) | 2022/04/24 |
 </details>
 
 <details>
