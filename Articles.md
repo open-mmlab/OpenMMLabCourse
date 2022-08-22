@@ -22,8 +22,22 @@
 | OpenMMLab 模型大联动，MMDet 也能用 MMCls 的网络！ | 文章 | [# MMDet居然能用MMCls的Backbone？论配置文件的打开方式](https://zhuanlan.zhihu.com/p/436865195) | [# OpenMMLab 模型大联动，MMDet 也能用 MMCls 的网络！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485367&idx=1&sn=94ef1efda6337368805765aeb31fe3b3&chksm=ebb50f55dcc28643389795d9969040629850ef85ae96b2c49b4dff5b5f287155d830e8a29f87&token=1125533908&lang=zh_CN#rd) | 2021/11/23 |
 | 目标检测的首选深度框架？ | 问答 | [# 目标检测的首选深度框架？](https://www.zhihu.com/answer/2500571323) |  | 2022/05/25 |
 | 计算机视觉中，目前有哪些经典的目标跟踪算法？ | 问答 | [# 计算机视觉中，目前有哪些经典的目标跟踪算法？](https://www.zhihu.com/answer/2412612945) |  | 2022/03/29 |
-| MMDetection中SOTA论文源码中将训练过程中BN层的eval打开? | 问答 | [# Mmdetection中SOTA论文源码中将训练过程中BN层的eval打开?](https://www.zhihu.com/answer/2195540892) |  | 2021/10/29 |
+| MMDetection中SOTA论文源码中将训练过程中BN层的eval打开? | 问答 | [# Mmdetection中SOTA论文源码中将训练过程中BN层的eval打开?](https://www.zhihu.com/answer/2195540892) | 问答 | 2021/10/29 |
 | 你是如何自学 Python 的？ |  | [# 你是如何自学 Python 的？](https://www.zhihu.com/answer/2134322010) |  | 2021/09/22 |
+| COCO数据集上1x模式下为什么不采用多尺度训练? | 问答 | [# COCO数据集上1x模式下为什么不采用多尺度训练?](https://www.zhihu.com/answer/1915119662) |  | 2021/05/31 |
+| 想知道目标检测领域中还有哪些方向能做？ | 问答 | [# 想知道目标检测领域中还有哪些方向能做？](https://www.zhihu.com/answer/1855223790) |  | 2021/04/26 |
+| 深度学习小白，毕业设计想做深度学习跟踪目标方面的，有什么建议？ | 问答 | [# 深度学习小白，毕业设计想做深度学习跟踪目标方面的，有什么建议？](https://www.zhihu.com/answer/1850035178) |  | 2021/04/23 |
+| 如何具体上手实现目标检测呢？ | 问答 | [# 如何具体上手实现目标检测呢？](https://www.zhihu.com/answer/1848561187) |  | 2021/04/22 |
+| 基于PyTorch的MMDetection中训练的随机性来自何处？ | 问答 | [# 基于PyTorch的MMDetection中训练的随机性来自何处？](https://www.zhihu.com/answer/1839683634) |  | 2021/04/17 |
+| MMDetection如何学习源码？ | 问答 | [# MMDetection如何学习源码？](https://www.zhihu.com/answer/1832498963) |  | 2021/04/13 |
+| 想要涉足目标检测领域，有推荐的系统学习路线吗？ | 问答 | [# 想要涉足目标检测领域，有推荐的系统学习路线吗？](https://www.zhihu.com/answer/1776343553) |  | 2021/03/12 |
+| mmdetection如何解决安装mmcv遇到的问题？ | 问答 | [# mmdetection如何解决安装mmcv遇到的问题？](https://www.zhihu.com/answer/1710754148) |  | 2021/02/02 |
+| 如何看待商汤的Deformable DETR？能否取代Faster-RCNN范式？ | 问答 | [# 如何看待商汤的Deformable DETR？能否取代Faster-RCNN范式？](https://www.zhihu.com/answer/1640597255) |  | 2020/12/22 |
+| 目标检测领域还有什么可以做的？ | 问答 | [# 目标检测领域还有什么可以做的？](https://www.zhihu.com/answer/1627885518) |  | 2020/12/15 |
+| 单阶段、双阶段、anchor-based、anchor-free这四者之间有什么联系吗？ | 问答 | [# 单阶段、双阶段、anchor-based、anchor-free这四者之间有什么联系吗？](https://www.zhihu.com/answer/1619925296) |  | 2020/12/10 |
+| 目标检测的深度学习方法，有推荐的书籍或资料吗？ | 问答 | [# 目标检测的深度学习方法，有推荐的书籍或资料吗？](https://www.zhihu.com/answer/1612593817) |  | 2020/12/05 |
+| 大佬们，刚入学研究生，想入门目标检测，有什么学习路线可以入门的？ | 问答 | [# 大佬们，刚入学研究生，想入门目标检测，有什么学习路线可以入门的？](https://www.zhihu.com/answer/1612580715) |  | 2020/12/05 |
+| 目标检测的首选深度框架？ | 问答 | [# 目标检测的首选深度框架？](https://www.zhihu.com/answer/2500571323) |  | 2022/05/25 |
 </details>
 
 <details>
