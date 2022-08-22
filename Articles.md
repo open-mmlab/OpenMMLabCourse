@@ -59,13 +59,8 @@
 | 厉害了！有了它，发顶会顶刊拿赛事大奖轻松多了！ | 文章 | [# 厉害了！有了它，发顶会顶刊拿赛事大奖轻松多了！](https://zhuanlan.zhihu.com/p/533267898) | [# 厉害了！有了它，发顶会顶刊拿赛事大奖轻松多了！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247493389&idx=1&sn=eda9adb108f651490aa341c642af7db1&chksm=ebb6efefdcc166f9ff423352cb20d512b9699d9336e63ec626ae19842ead6639ddaf2fa723a0&token=1125533908&lang=zh_CN#rd) | 2022/06/24 |
 | 全链条打通！快速部署 3D 目标检测模型 PointPillars | 文章 | [# 【3D 目标检测模型部署】全链条打通！PointPillars 从模型到部署](https://zhuanlan.zhihu.com/p/536323578) | [# 全链条打通！快速部署 3D 目标检测模型 PointPillars](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247493654&idx=1&sn=ba76f963ac343889cfe0d988c25da2c5&chksm=ebb6e0f4dcc169e24f4756213207dee3fa376f74eed457d041482d356cd515cfabfc64c60c2a&token=1125533908&lang=zh_CN#rd) | 2022/07/01 |
 | 重磅！新增 13 种 Transformer 方法，火速收藏 | 文章 | [# 做 Transformer, OpenMMLab 了解一下？](https://zhuanlan.zhihu.com/p/403661977) | [# 重磅！新增 13 种 Transformer 方法，火速收藏](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484110&idx=1&sn=24327bac442f47a78099ad5abc1dd0d3&chksm=ebb50a2cdcc2833a11114f3ff06e6a0e403f34b8ede229cf7992cb930416d204846ccc0c39b9&token=1125533908&lang=zh_CN#rd) | 2021/08/25 |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 如何入门激光雷达点云的3D目标检测？ | 问答 | [# 如何入门激光雷达点云的3D目标检测？](https://www.zhihu.com/answer/2379324138) |  | 2022/03/08 |
+| OpenPCDet和mmdetection3d有什么区别? | 问答 | [# OpenPCDet和mmdetection3d有什么区别?](https://www.zhihu.com/answer/2206147084) |  | 2021/11/04 |
 </details>
 
 <details>
