@@ -43,7 +43,7 @@
 <details>
 <summary>
 
-# 2. 3D目标检测 & MMDetection3D
+# 2. 3D目标检测 & MMDetection3D [<img src="https://github.com/open-mmlab/mmdetection3d/blob/master/resources/mmdet3d-logo.png" height="36">](https://github.com/open-mmlab/mmdetection3d)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
