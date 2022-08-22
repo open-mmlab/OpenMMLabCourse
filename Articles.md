@@ -112,7 +112,7 @@
 <details>
 <summary>
 
-# 5. 模型部署 & MMdeploy
+# 5. 模型部署 & MMdeploy [<img src="https://github.com/open-mmlab/mmdeploy/blob/master/resources/mmdeploy-logo.png" height="36">](https://github.com/open-mmlab/mmdeploy)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
