@@ -49,6 +49,21 @@
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
 | MMDetection3D - "3Dfy" A General 2D Detector ：纯视觉3D检测再思考 | 文章 | [# "3Dfy" A General 2D Detector: 纯视觉 3D 检测再思考](https://zhuanlan.zhihu.com/p/400191167) | [# MMDetection3D - "3Dfy" A General 2D Detector ：纯视觉3D检测再思考](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247483965&idx=1&sn=14b28b591ce27d36b9b0e7ced64c2bf4&chksm=ebb50adfdcc283c9709c0f7d1b340501f59c5ca3d19429aa4b536c2a6bd2d1e615f71d725bec&token=1125533908&lang=zh_CN#rd) | 2021/08/19 |
+| 点云语义分割，现已正式加入 MMDet3D 全家桶！ | 文章 | [# 点云语义分割，现已加入 MMDet3D 全家桶！](https://zhuanlan.zhihu.com/p/402839129) |  | 2021/09/22 |
+| 关于单目 3D 检测最新成果，你想知道的都在这啦！ | 文章 | [# 单目 3D 检测最新进展调研与思考](https://zhuanlan.zhihu.com/p/435139846) | [# 关于单目 3D 检测最新成果，你想知道的都在这啦！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485262&idx=1&sn=123c44a3e6688f3de5e03bb1ef98f612&chksm=ebb50facdcc286ba1698ef1c46bdb784697517477e096eae0a7c71572268f0a9571340435f33&token=1125533908&lang=zh_CN#rd) | 2021/11/17 |
+| 大佬说 - 概率和几何深度：在三维空间中检测物体 | 文章 | [# 概率和几何深度：在三维空间中检测物体](https://zhuanlan.zhihu.com/p/442753563) | [大佬说 - 概率和几何深度：在三维空间中检测物体](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485637&idx=1&sn=88ff8a6b9191fb287d709a64460a16b1&chksm=ebb50027dcc28931e2889c9693072d550c9544977267584f6930ad2c7920a42a6c941ac6d5a6&token=1125533908&lang=zh_CN#rd) | 2021/12/12 |
+| 带你玩转 3D 检测和分割（一）：MMDetection3D 整体框架介绍 | 文章 | [# 带你玩转 3D 检测和分割（一）：MMDetection3D 整体框架介绍](https://zhuanlan.zhihu.com/p/478307528) | [# 带你玩转 3D 检测和分割（一）：MMDetection3D 整体框架介绍](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247488982&idx=1&sn=98a42da137f3e54d103c87dd193e7eda&chksm=ebb51d34dcc294228dc2bf9b1f5aca7e7a274c2eec4450775a5b5fdb5a0e09dc3394e97ef762#rd) | 2022/03/09 |
+| 带你玩转 3D 检测和分割（二）：核心组件分析之坐标系和 Box | 文章 | [# 带你玩转 3D 检测和分割 （二）：核心组件分析之坐标系和 Box](https://zhuanlan.zhihu.com/p/491614921) | [# 带你玩转 3D 检测和分割（二）：核心组件分析之坐标系和 Box](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490011&idx=1&sn=7fcc5ed45dceb2c90818c17f2e569c98&chksm=ebb51139dcc2982f0068fba7f39789ce38b0483dafc65fdaef50182e106965befdecb080dbe4#rd) | 2022/04/01 |
+| 带你玩转 3D 检测和分割 （三）：有趣的可视化 | 文章 | [# ]() | [# ]() | 2022/04/25 |
+| 带你了解车速估计技术在自动驾驶领域的应用 | 文章 | [# ]() | [# ]() | 2022/05/23 |
+| 厉害了！有了它，发顶会顶刊拿赛事大奖轻松多了！ | 文章 | [# ]() | [# ]() | 2022/06/24 |
+| 全链条打通！快速部署 3D 目标检测模型 PointPillars | 文章 | [# ]() | [# ]() | 2022/07/01 |
+| 重磅！新增 13 种 Transformer 方法，火速收藏 | 文章 | [# ]() | [# ]() | 2021/08/25 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 </details>
