@@ -165,9 +165,14 @@
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 一只 MMTracking 开发小鸽的辩解陈述 | 文章 | [# 号外号外～ MMTracking 要开始持续更新啦](https://zhuanlan.zhihu.com/p/411005827) | [# 一只 MMTracking 开发小鸽的辩解陈述](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484363&idx=1&sn=21863c17c49291bed7942facd0e57b90&chksm=ebb50b29dcc2823ff158e020ed46588e9a1edf41f84a258240ce4ccee63aeedf4c6d7136f1cd&token=1125533908&lang=zh_CN#rd) | 2021/09/15 |
+| MMTracking 食用指南 - 视频目标检测（附AAAI2021论文解读） | 文章 | [# 快速上手！MMTracking 食用指南 之 VID 篇（附 AAAI2021 论文解读 ！）](https://zhuanlan.zhihu.com/p/412817354) | [# MMTracking 食用指南 - 视频目标检测（附AAAI2021论文解读）](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484658&idx=1&sn=71faa9738330a2f29bb90e2aa588cc9d&chksm=ebb50c10dcc2850689a1956ce2624181e70503edd7fbc10d34de1c4f4f61a726c0ed2b3a0a4f&token=1125533908&lang=zh_CN#rd) | 2021/09/27 |
+| MMTracking 食用指南 - 多目标跟踪篇 | 文章 | [# MMTracking 多目标跟踪(MOT)任务的食用指南](https://zhuanlan.zhihu.com/p/414625166) | [# MMTracking 食用指南 - 多目标跟踪篇](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484717&idx=1&sn=ebdd886427324feb6dc47b897ba1c5b0&chksm=ebb50dcfdcc284d9eb6a0e19f8edfc37c165fc78fbd2ea64bb655f8204ce81397274297e0921&token=1125533908&lang=zh_CN#rd) | 2021/10/09 |
+| MMTracking - 如何用单目标跟踪（SOT）抓住人类幼崽 | 文章 | [# 上新！MMTracking 单目标跟踪任务食用指南](https://zhuanlan.zhihu.com/p/421031509) | [# MMTracking - 如何用单目标跟踪（SOT）抓住人类幼崽](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484807&idx=1&sn=38d4c85acae05308f851e9e99ae8f4e3&chksm=ebb50d65dcc28473be9090c49ca43c882682a84279da8182b74e7acb3e98f7dce6cff379a07c&token=1125533908&lang=zh_CN#rd) | 2021/10/15 |
+| 最新上线！MMTracking 视频实例分割食用指南 | 文章 | [# 最新上线！MMTracking 视频实例分割食用指南](https://zhuanlan.zhihu.com/p/439562841) | [# 最新上线！MMTracking 视频实例分割食用指南](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485155&idx=1&sn=91ddd6a13a5b2401224398b75d1d1f54&chksm=ebb50e01dcc28717490ca1033cfcdb6970885228d7bfd989c0693041b9f8e33b960ea1ecce4a&token=1125533908&lang=zh_CN#rd) | 2021/11/11 |
+| 约学习不啦，用 MMTracking 做视频实例分割咩？ | 文章 | [# 最新上线！MMTracking 视频实例分割食用指南](https://zhuanlan.zhihu.com/p/439562841) | [# 约学习不啦，用 MMTracking 做视频实例分割咩？](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485411&idx=1&sn=e9bb78c4812d0e07b1bbcede0f770e66&chksm=ebb50f01dcc286172aa808396c645a57284581938930d047a4b95abee5fec9568b34a3e8869f&token=1125533908&lang=zh_CN#rd) | 2021/11/29 |
+| 使用深度学习算法实现图像目标跟踪，该怎么做？机器学习刚入门，完全没头绪。? | 问答 | [# 使用深度学习算法实现图像目标跟踪，该怎么做？机器学习刚入门，完全没头绪。?](https://www.zhihu.com/answer/2168982029) |  | 2021/10/13 |
+| 如果我想要深入的学习计算机目标跟踪方向的内容，应该从哪个方面开始入手，比如说看什么书? | 问答 | [# 如果我想要深入的学习计算机目标跟踪方向的内容，应该从哪个方面开始入手，比如说看什么书?](https://www.zhihu.com/answer/1866682282) |  | 2021/05/03 |
 </details>
 
 <details>
