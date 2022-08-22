@@ -54,11 +54,11 @@
 | 大佬说 - 概率和几何深度：在三维空间中检测物体 | 文章 | [# 概率和几何深度：在三维空间中检测物体](https://zhuanlan.zhihu.com/p/442753563) | [大佬说 - 概率和几何深度：在三维空间中检测物体](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485637&idx=1&sn=88ff8a6b9191fb287d709a64460a16b1&chksm=ebb50027dcc28931e2889c9693072d550c9544977267584f6930ad2c7920a42a6c941ac6d5a6&token=1125533908&lang=zh_CN#rd) | 2021/12/12 |
 | 带你玩转 3D 检测和分割（一）：MMDetection3D 整体框架介绍 | 文章 | [# 带你玩转 3D 检测和分割（一）：MMDetection3D 整体框架介绍](https://zhuanlan.zhihu.com/p/478307528) | [# 带你玩转 3D 检测和分割（一）：MMDetection3D 整体框架介绍](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247488982&idx=1&sn=98a42da137f3e54d103c87dd193e7eda&chksm=ebb51d34dcc294228dc2bf9b1f5aca7e7a274c2eec4450775a5b5fdb5a0e09dc3394e97ef762#rd) | 2022/03/09 |
 | 带你玩转 3D 检测和分割（二）：核心组件分析之坐标系和 Box | 文章 | [# 带你玩转 3D 检测和分割 （二）：核心组件分析之坐标系和 Box](https://zhuanlan.zhihu.com/p/491614921) | [# 带你玩转 3D 检测和分割（二）：核心组件分析之坐标系和 Box](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490011&idx=1&sn=7fcc5ed45dceb2c90818c17f2e569c98&chksm=ebb51139dcc2982f0068fba7f39789ce38b0483dafc65fdaef50182e106965befdecb080dbe4#rd) | 2022/04/01 |
-| 带你玩转 3D 检测和分割 （三）：有趣的可视化 | 文章 | [# ]() | [# ]() | 2022/04/25 |
-| 带你了解车速估计技术在自动驾驶领域的应用 | 文章 | [# ]() | [# ]() | 2022/05/23 |
-| 厉害了！有了它，发顶会顶刊拿赛事大奖轻松多了！ | 文章 | [# ]() | [# ]() | 2022/06/24 |
-| 全链条打通！快速部署 3D 目标检测模型 PointPillars | 文章 | [# ]() | [# ]() | 2022/07/01 |
-| 重磅！新增 13 种 Transformer 方法，火速收藏 | 文章 | [# ]() | [# ]() | 2021/08/25 |
+| 带你玩转 3D 检测和分割 （三）：有趣的可视化 | 文章 | [# 带你玩转 3D 检测和分割 （三）：有趣的可视化](https://zhuanlan.zhihu.com/p/504862433) | [# 带你玩转 3D 检测和分割 （三）：有趣的可视化](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490376&idx=1&sn=5b5c31ea7cba599765cb090c1de873ee&chksm=ebb513aadcc29abce3fedee049b0d349f8414c8275e50fb8f0b91e1f656fe52811c799f2eb62#rd) | 2022/04/25 |
+| 带你了解车速估计技术在自动驾驶领域的应用 | 文章 | [# 【预告】社区开放麦第 6 期：基于视觉的车速估计技术](https://zhuanlan.zhihu.com/p/518772393) | [# 带你了解车速估计技术在自动驾驶领域的应用](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247491142&idx=1&sn=7cf3a072bd32e710f44080386fb41ace&chksm=ebb516a4dcc29fb25c2a72baeae61c1fd44eaf1be9bb85c89ea3adb6b46f721e33e2f05da25e#rd) | 2022/05/23 |
+| 厉害了！有了它，发顶会顶刊拿赛事大奖轻松多了！ | 文章 | [# 厉害了！有了它，发顶会顶刊拿赛事大奖轻松多了！](https://zhuanlan.zhihu.com/p/533267898) | [# 厉害了！有了它，发顶会顶刊拿赛事大奖轻松多了！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247493389&idx=1&sn=eda9adb108f651490aa341c642af7db1&chksm=ebb6efefdcc166f9ff423352cb20d512b9699d9336e63ec626ae19842ead6639ddaf2fa723a0&token=1125533908&lang=zh_CN#rd) | 2022/06/24 |
+| 全链条打通！快速部署 3D 目标检测模型 PointPillars | 文章 | [# 【3D 目标检测模型部署】全链条打通！PointPillars 从模型到部署](https://zhuanlan.zhihu.com/p/536323578) | [# 全链条打通！快速部署 3D 目标检测模型 PointPillars](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247493654&idx=1&sn=ba76f963ac343889cfe0d988c25da2c5&chksm=ebb6e0f4dcc169e24f4756213207dee3fa376f74eed457d041482d356cd515cfabfc64c60c2a&token=1125533908&lang=zh_CN#rd) | 2022/07/01 |
+| 重磅！新增 13 种 Transformer 方法，火速收藏 | 文章 | [# 做 Transformer, OpenMMLab 了解一下？](https://zhuanlan.zhihu.com/p/403661977) | [# 重磅！新增 13 种 Transformer 方法，火速收藏](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484110&idx=1&sn=24327bac442f47a78099ad5abc1dd0d3&chksm=ebb50a2cdcc2833a11114f3ff06e6a0e403f34b8ede229cf7992cb930416d204846ccc0c39b9&token=1125533908&lang=zh_CN#rd) | 2021/08/25 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
