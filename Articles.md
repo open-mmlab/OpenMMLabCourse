@@ -154,6 +154,7 @@
 | 超详细技术指南，带你玩转 MMPose 姿态估计创意大赛 | 文章 | [# 【预告】社区开放麦第 7 期：MMPose 姿态估计创意大赛技术指南](https://zhuanlan.zhihu.com/p/522183234) | [# 超详细技术指南，带你玩转 MMPose 姿态估计创意大赛](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247491474&idx=1&sn=b39e64640ced0b4a635951fc52cb54bb&chksm=ebb51770dcc29e66f7130cc55f01a38458c4b5269aa1bf3f4ca2d1b3d27e8d78919cfb6f5114&token=1125533908&lang=zh_CN#rd) | 2022/05/30 |
 | 特效大片背后的多视角 3D 人体姿态估计技术 | 文章 | [# 特效大片背后的多视角 3D 人体姿态估计技术](https://zhuanlan.zhihu.com/p/529219789) | [# 特效大片背后的多视角 3D 人体姿态估计技术](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247492853&idx=1&sn=480b7d94e40235ed369683f5d18dfa91&chksm=ebb6ec17dcc16501c36fa9d5f2b26b0970642448c6103cceb25404a63248c888f3f84e255520&token=1125533908&lang=zh_CN#rd) | 2022/06/15 |
 | 作者亲临！带你学习 CVPR 前沿姿态估计论文 | 文章 | [# 【回放】 社区开放麦第 2 期：学习 CVPR 前沿姿态估计论文](https://www.zhihu.com/zvideo/1504457861418061824) | [# 作者亲临！带你学习 CVPR 前沿姿态估计论文](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490336&idx=1&sn=84795ff8de8146fa433bc0e450aa920e&chksm=ebb513c2dcc29ad4bb9555ae46ce844c157c304bc8854886a05a9e8867f122ffc0646d974223#rd) | 2022/04/24 |
+| 人体姿态估计中回归出了heatmap如何去计算关键点的坐标位置？ | 问答 | [# 人体姿态估计中回归出了heatmap如何去计算关键点的坐标位置？](https://www.zhihu.com/answer/2404996258) |  | 2022/03/24 |
 </details>
 
 <details>
