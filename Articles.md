@@ -21,7 +21,7 @@
 | 给 MMDetection 添加算法太难？手把手教会你！ | 文章 | [# MaskFormer 在 MMDtection 中复现全流程解析](https://zhuanlan.zhihu.com/p/532168933) | [# 给 MMDetection 添加算法太难？手把手教会你！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247493270&idx=1&sn=b1af84a807bc611fd327d81d224491b9&chksm=ebb6ee74dcc167623ee5abb203728eb4d37a4a117075bf8f4fa03d522abea074cbed933b16a9&token=1125533908&lang=zh_CN#rd) | 2022/06/22 |
 | OpenMMLab 模型大联动，MMDet 也能用 MMCls 的网络！ | 文章 | [# MMDet居然能用MMCls的Backbone？论配置文件的打开方式](https://zhuanlan.zhihu.com/p/436865195) | [# OpenMMLab 模型大联动，MMDet 也能用 MMCls 的网络！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485367&idx=1&sn=94ef1efda6337368805765aeb31fe3b3&chksm=ebb50f55dcc28643389795d9969040629850ef85ae96b2c49b4dff5b5f287155d830e8a29f87&token=1125533908&lang=zh_CN#rd) | 2021/11/23 |
 | 目标检测的首选深度框架？ | 问答 | [# 目标检测的首选深度框架？](https://www.zhihu.com/answer/2500571323) |  | 2022/05/25 |
-| 计算机视觉中，目前有哪些经典的目标跟踪算法？ | 问答 | [# 计算机视觉中，目前有哪些经典的目标跟踪算法？]https://www.zhihu.com/answer/2412612945) |  | 2022/03/29 |
+| 计算机视觉中，目前有哪些经典的目标跟踪算法？ | 问答 | [# 计算机视觉中，目前有哪些经典的目标跟踪算法？](https://www.zhihu.com/answer/2412612945) |  | 2022/03/29 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 </details>
