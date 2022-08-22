@@ -71,7 +71,16 @@
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
-|  |  |  |  |  |
+| MMClassificiation - 实现数据增强的 N 种方法 | 文章 | [# 一段代码玩转数据增强的N种方法](https://zhuanlan.zhihu.com/p/424133612) | [# MMClassificiation - 实现数据增强的 N 种方法](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484845&idx=1&sn=02179d3eac76a860cd421c625fd736a0&chksm=ebb50d4fdcc28459a9554f31dc256e10adc252733ead77cf8c5c69ffae288c6c9b481c1f66d3&token=1125533908&lang=zh_CN#rd) | 2021/10/20 |
+| 一张图的一百种 “活” 法 - MMClassification 数据增强介绍第二弹 | 文章 | [# MMClassification 数据增强介绍（二）](https://zhuanlan.zhihu.com/p/436238223) | [# 一张图的一百种 “活” 法 - MMClassification 数据增强介绍第二弹](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485313&idx=1&sn=7bc8534c3c30c7827e3f79c1096d8a4f&chksm=ebb50f63dcc2867522845f3226e3e5acc8a73f7ca24e9ae03ea74413d7232d4d65fd3527e43f&token=1125533908&lang=zh_CN#rd) | 2021/11/19 |
+| 类别激活热力图可视化工具介绍 | 文章 | [# 类别激活热力图可视化工具介绍](https://zhuanlan.zhihu.com/p/453182477) | [# 类别激活热力图可视化工具介绍](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485910&idx=1&sn=22aa21397b003cf40af279ae3acccac1&chksm=ebb50134dcc288220d3f941bcd8b613494c7e1371435e909c9f6e522c21e194f50c7b68f4cc4&token=1125533908&lang=zh_CN#rd) | 2022/01/04 |
+| Vision Transformer 必读系列之图像分类综述(一): 概述 | 文章 | [# Vision Transformer 必读系列之图像分类综述(一)：概述](https://zhuanlan.zhihu.com/p/459828118) | [# Vision Transformer 必读系列之图像分类综述(一): 概述](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247486170&idx=1&sn=3e00f09e3d7519d0a83fd42178206850&chksm=ebb50238dcc28b2ebbb840353ee788dfcc2ae2841c5611e8a62bc0fc893b70bccf2be35f33d2#rd) | 2022/01/21 |
+| Vision Transformer 必读系列之图像分类综述(二): Attention-based | 文章 | [# Vision Transformer 必读系列之图像分类综述(二): Attention-based](https://zhuanlan.zhihu.com/p/461700507) | [# Vision Transformer 必读系列之图像分类综述(二): Attention-based](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247486382&idx=1&sn=7fc5a706f9e6f09525a9b7d1f16090d3&chksm=ebb5034cdcc28a5adef6c4a29acf29ef4cf4835bfe0e603684a9dd5e40e020afb51b0a045d24#rd) | 2022/01/26 |
+| Vision Transformer 必读系列之图像分类综述(三): MLP、ConvMixer 和架构分析 | 文章 | [# Vision Transformer 必读系列之图像分类综述(三): MLP、ConvMixer 和架构分析](https://zhuanlan.zhihu.com/p/462463183) | [# Vision Transformer 必读系列之图像分类综述(三): MLP、ConvMixer 和架构分析](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247486495&idx=1&sn=a6955f6774316ec44fb50b9d2d933221&chksm=ebb504fddcc28deb706056eeb586adab192db9671b3bb51ee3804db481c804a96ca094a4d038#rd) | 2022/01/27 |
+| 以动制动 - Transformer 如何处理动态输入尺寸 | 文章 | [# ]() | [# ]() | 2022/03/18 |
+| 轻松搭建主干网络，多种视觉任务一网打尽 | 文章 | [# ]() | [# ]() | 2022/04/12 |
+| OpenMMLab 进阶指南，模型训练测试全流程解析 | 文章 | [# ]() | [# ]() | 2022/07/15 |
+| 困扰我 48 小时的深拷贝，今天终于... | 文章 | [# ]() | [# ]() | 2022/02/22 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 </details>
