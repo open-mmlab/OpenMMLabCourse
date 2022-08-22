@@ -22,8 +22,8 @@
 | OpenMMLab 模型大联动，MMDet 也能用 MMCls 的网络！ | 文章 | [# MMDet居然能用MMCls的Backbone？论配置文件的打开方式](https://zhuanlan.zhihu.com/p/436865195) | [# OpenMMLab 模型大联动，MMDet 也能用 MMCls 的网络！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485367&idx=1&sn=94ef1efda6337368805765aeb31fe3b3&chksm=ebb50f55dcc28643389795d9969040629850ef85ae96b2c49b4dff5b5f287155d830e8a29f87&token=1125533908&lang=zh_CN#rd) | 2021/11/23 |
 | 目标检测的首选深度框架？ | 问答 | [# 目标检测的首选深度框架？](https://www.zhihu.com/answer/2500571323) |  | 2022/05/25 |
 | 计算机视觉中，目前有哪些经典的目标跟踪算法？ | 问答 | [# 计算机视觉中，目前有哪些经典的目标跟踪算法？](https://www.zhihu.com/answer/2412612945) |  | 2022/03/29 |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| MMDetection中SOTA论文源码中将训练过程中BN层的eval打开? | 问答 | [# Mmdetection中SOTA论文源码中将训练过程中BN层的eval打开?](https://www.zhihu.com/answer/2195540892) |  | 2021/10/29 |
+| 你是如何自学 Python 的？ |  | [# 你是如何自学 Python 的？](https://www.zhihu.com/answer/2134322010) |  | 2021/09/22 |
 </details>
 
 <details>
