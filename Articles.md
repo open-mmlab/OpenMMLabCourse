@@ -93,6 +93,9 @@
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
+| 带你轻松掌握 MMSegmentation 整体构建流程 | 文章 | [# 超详细！带你轻松掌握 MMSegmentation 整体构建流程](https://zhuanlan.zhihu.com/p/520397255) | [# 带你轻松掌握 MMSegmentation 整体构建流程](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247491287&idx=1&sn=9fc68e8ebfcddccc0bed8b04c19f010f&chksm=ebb51635dcc29f23eaa4921f50c76ec289afb00ca64f8d61eefbc573382910c2753652dedf9a&token=1125533908&lang=zh_CN#rd) | 2022/05/26 |
+| 带你轻松用 MMSegmentation 跑语义分割数据集 | 文章 | [# 超详细！手把手带你轻松用 MMSegmentation 跑语义分割数据集](https://zhuanlan.zhihu.com/p/525422379) | [# 带你轻松用 MMSegmentation 跑语义分割数据集](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247492283&idx=1&sn=98cb851af0792abce002fc81a4cd48bd&chksm=ebb6ea59dcc1634fc14d6c3becd541ea0d97561638bdb755c1b9d5b6ca81c5d5b8366f9959c4&token=1125533908&lang=zh_CN#rd) | 2022/06/07 |
+| 社区精选 - OpenMMLab 为什么要引入 Hook 机制嘞？ | 文章 | [# 解读 OpenMMLab 的 Hook 机制](https://zhuanlan.zhihu.com/p/387483425) | [# 社区精选 - OpenMMLab 为什么要引入 Hook 机制嘞？](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484406&idx=1&sn=b6bd379fa1031e436dc3c306482201cd&chksm=ebb50b14dcc28202d054c9db0b28918ad4646187f086bf961f3fb48e61a89e2a8fed4137dd60&token=1125533908&lang=zh_CN#rd) | 2021/09/17 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
