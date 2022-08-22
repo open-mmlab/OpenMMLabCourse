@@ -88,7 +88,7 @@
 <details>
 <summary>
 
-# 4. 语义分割 & MMSegmentation
+# 4. 语义分割 & MMSegmentation [<img src="https://github.com/open-mmlab/mmsegmentation/blob/master/resources/mmseg-logo.png" height="36">](https://github.com/open-mmlab/mmsegmentation)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
