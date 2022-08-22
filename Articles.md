@@ -81,8 +81,8 @@
 | 轻松搭建主干网络，多种视觉任务一网打尽 | 文章 | [# 用 OpenMMLab 轻松搭建主干网络，多种视觉任务一网打尽](https://zhuanlan.zhihu.com/p/497363694) | [# 轻松搭建主干网络，多种视觉任务一网打尽](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490135&idx=1&sn=a26c8d4e32a055f19741ac3e8a7b27fc&chksm=ebb512b5dcc29ba3d9c9e27c9f4c14dfe1664e6de7daed9a14cb9df32d6ac16589017b9cb370#rd) | 2022/04/12 |
 | OpenMMLab 进阶指南，模型训练测试全流程解析 | 文章 | [# OpenMMLab 进阶指南，模型训练测试全流程解析](https://zhuanlan.zhihu.com/p/541934131) | [# OpenMMLab 进阶指南，模型训练测试全流程解析](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247494255&idx=1&sn=4b1af31ffa0ded92f3cebde86d99d0fd&chksm=ebb6e28ddcc16b9b270ecccdce157c37d607ac8b6444298130588d22717157ff5edf5f57c373&token=1125533908&lang=zh_CN#rd) | 2022/07/15 |
 | 困扰我 48 小时的深拷贝，今天终于... | 文章 | [# 困扰我 48 小时的深拷贝，今天终于...](https://zhuanlan.zhihu.com/p/470892209) | [# 困扰我 48 小时的深拷贝，今天终于...](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247487904&idx=1&sn=caa902dc448417de9d6ba4cf80b0d6b3&chksm=ebb51942dcc29054bbb5de8d5a7f13e1f9fc9d1d232396fb383367867cce876d56c8c2c7626a#rd) | 2022/02/22 |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 什么是图像分类的Top-5错误率？ | 问答 | [# 什么是图像分类的Top-5错误率？](https://www.zhihu.com/answer/2400009714) |  | 2022/03/21 |
+| 图像分类中的max pooling和average  pooling是对特征的什么来操作的，结果是什么？ | 问答 | [# 图像分类中的max pooling和average pooling是对特征的什么来操作的，结果是什么？](https://www.zhihu.com/answer/2382478754) |  | 2022/03/10 |
 </details>
 
 <details>
