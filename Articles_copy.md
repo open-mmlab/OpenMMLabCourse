@@ -3,7 +3,7 @@
 
 
 
-## 1. 目标检测 & MMDetection [<img src="https://github.com/open-mmlab/mmdetection/blob/master/resources/mmdet-logo.png" height="36">](https://github.com/open-mmlab/mmdetection)
+## 目标检测 & MMDetection [<img src="https://github.com/open-mmlab/mmdetection/blob/master/resources/mmdet-logo.png" height="36">](https://github.com/open-mmlab/mmdetection)
 | 发表日期 | 标题 | 类型 |
 |:-:|-|:-:|
 | 2021/08/11 | [# YOLOX 在 MMDetection 中复现全流程解析](https://zhuanlan.zhihu.com/p/398545304) | 文章 |
