@@ -5,7 +5,7 @@
 </summary>
 
 | 发表日期 | 标题 | 类型 |
-|:-:|:-:|:-:|
+|:-:|-|:-:|
 | 2021/08/11 | [# YOLOX 在 MMDetection 中复现全流程解析](https://zhuanlan.zhihu.com/p/398545304) | 文章 |
 | 2021/08/23 | [# 喂喂喂！你可以减重了！小模型 &#124; MMDetection 新增SSDLite 、 MobileNetV2YOLOV3 两大经典算法](https://zhuanlan.zhihu.com/p/402781143) | 文章 |
 | 2021/09/01 | [# OpenMMLab 社区专访之 YOLOX 复现篇 ](https://zhuanlan.zhihu.com/p/405913343) | 文章 |
