@@ -190,14 +190,24 @@
 <details>
 <summary>
 
-# 9. 计算机视觉基础库 & MMCV
+# 9. 计算机视觉基础库 & MMCV [<img src="https://github.com/open-mmlab/mmcv/blob/master/docs/en/mmcv-logo.png" height="36">](https://github.com/open-mmlab/mmcv)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 社区精选 &#124 OpenMMLab 的 cfg 模式和 Registry 机制 | 文章 | [# OpenMMLab 的 cfg 模式和 Registry 机制](https://zhuanlan.zhihu.com/p/387484734) | [# 社区精选 - OpenMMLab 的 cfg 模式和 Registry 机制](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484781&idx=1&sn=5075f0c353754f0e51945c5bfc07ddbf&chksm=ebb50d8fdcc28499987df3c099845eb5390f65fade80611513006e675c98268eee2827178fc7&token=1125533908&lang=zh_CN#rd) | 2021/10/13 |
+| 如何基于 MMCV 走上开源大佬之路 | 文章 | [# ]() | [# ]() | 2021/10/28 |
+| 拿什么拯救我的 4G 显卡 | 文章 | [# ]() | [# ]() | 2021/11/15 |
+| 过节福利 - MMCV Hook 超全使用方法 | 文章 | [# ]() | [# ]() | 2021/12/24 |
+| 训练可视化工具哪款是你的菜？MMCV一行代码随你挑 | 文章 | [# ]() | [# ]() | 2022/01/14 |
+| 【社区投稿】一看就懂！超全解析 OpenMMLab 的 Hook 机制 | 文章 | [# ]() | [# ]() | 2022/01/20 |
+| 手把手教你如何高效地在 MMCV 中贡献算子 | 文章 | [# ]() | [# ]() | 2022/02/09 |
+| 是谁偷偷动了我的 logger | 文章 | [# ]() | [# ]() | 2022/03/15 |
+| 三句话，让 logger 言听计从 | 文章 | [# ]() | [# ]() | 2022/03/25 |
+| Logging 不为人知的二三事 | 文章 | [# ]() | [# ]() | 2022/04/21 |
+| 为什么 MMCV v1.5.0 值得一个头条 | 文章 | [# ]() | [# ]() | 2022/05/20 |
+| 揭秘 OpenMMLab 模块化设计背后的功臣 | 文章 | [# ]() | [# ]() | 2022/06/13 |
+| PyTorch & MMCV Dispatcher 机制解析 | 文章 | [# ]() | [# ]() | 2021/12/30 |
 </details>
 
 <details>
