@@ -351,9 +351,12 @@
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| MMGeneration &#124; PyTorch 零基础入门 GAN 模型 | 文章 | [# PyTorch 零基础入门 GAN 模型之基础篇](https://zhuanlan.zhihu.com/p/396010666) |  | 2021/08/16 |
+| MMGEN-FaceStylor &#124; 因为是你，所以每一种样子我都喜欢 | 文章 | [# MMGEN-FaceStylor &#124; 因为是你，所以每一种样子我都喜欢](https://zhuanlan.zhihu.com/p/443632127) | [# MMGEN-FaceStylor &#124; 因为是你，所以每一种样子我都喜欢](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485615&idx=1&sn=4c2d8c9958ac47f6e34780d7f8e18179&chksm=ebb5004ddcc2895b66174fcee764e1cc926f7a8b8118430b8fd1039323370b8382e9fc212640&token=1125533908&lang=zh_CN#rd) | 2021/12/10 |
+| PyTorch 零基础入门 GAN 模型之 cGAN | 文章 | [# PyTorch 零基础入门 GAN 模型之 cGAN](https://zhuanlan.zhihu.com/p/490317358) | [# PyTorch 零基础入门 GAN 模型之 cGAN](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247489957&idx=1&sn=2e2018388f01af3c18f79c21479a7e57&chksm=ebb51147dcc298514697a1e495232b2da9bd817111234565f6fd8449cd131a9b7d36e3af83cc#rd) | 2022/03/30 |
+| 生成式对抗网络GAN有哪些最新的发展，可以实际应用到哪些场景中？ | 问答 | [# 生成式对抗网络GAN有哪些最新的发展，可以实际应用到哪些场景中？](https://www.zhihu.com/answer/2471545183) |  | 2022/05/05 |
+| GAN网络训练过拟合如何解决? | 问答 | [# GAN网络训练过拟合如何解决?](https://www.zhihu.com/answer/2416395711) |  | 2022/03/31 |
+| GAN今年凉了吗？ | 问答 | [# GAN今年凉了吗？](https://www.zhihu.com/answer/1618193771) |  | 2020/12/09 |
 </details>
 
 
