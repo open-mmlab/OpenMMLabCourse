@@ -2,12 +2,8 @@
 - [3D目标检测 & MMDetection3D](#2-3d目标检测--mmdetection3d-img-srchttpsgithubcomopen-mmlabmmdetection3dblobmasterresourcesmmdet3d-logopng-height36httpsgithubcomopen-mmlabmmdetection3d)
 
 
-<details>
-<summary>
 
 ## 1. 目标检测 & MMDetection [<img src="https://github.com/open-mmlab/mmdetection/blob/master/resources/mmdet-logo.png" height="36">](https://github.com/open-mmlab/mmdetection)
-</summary>
-
 | 发表日期 | 标题 | 类型 |
 |:-:|-|:-:|
 | 2021/08/11 | [# YOLOX 在 MMDetection 中复现全流程解析](https://zhuanlan.zhihu.com/p/398545304) | 文章 |
@@ -42,7 +38,6 @@
 | 2020/12/05 | [# 目标检测的深度学习方法，有推荐的书籍或资料吗？](https://www.zhihu.com/answer/1612593817) | 问答 |
 | 2020/12/05 | [# 大佬们，刚入学研究生，想入门目标检测，有什么学习路线可以入门的？](https://www.zhihu.com/answer/1612580715) | 问答 |
 | 2022/05/25 | [# 目标检测的首选深度框架？](https://www.zhihu.com/answer/2500571323) | 问答 |
-</details>
 
 
 
