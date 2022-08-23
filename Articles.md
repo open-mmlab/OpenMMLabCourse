@@ -240,7 +240,7 @@
 <details>
 <summary>
 
-# 11. 视频和图像编辑 & MMEditing
+# 11. 视频和图像编辑 & MMEditing [<img src="https://github.com/open-mmlab/mmediting/blob/master/docs/en/_static/image/mmediting-logo.png" height="36">](https://github.com/open-mmlab/mmediting)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
