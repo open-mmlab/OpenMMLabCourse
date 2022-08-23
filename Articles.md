@@ -319,7 +319,7 @@
 <details>
 <summary>
 
-# 17. 行为理解 & MMAction2 [<img src="https://github.com/open-mmlab/mmrotate/blob/main/resources/mmrotate-logo.png" height="36">](https://github.com/open-mmlab/mmrotate)
+# 17. 行为理解 & MMAction2 [<img src="https://github.com/open-mmlab/mmaction2/blob/master/resources/mmaction2_logo.png" height="36">](https://github.com/open-mmlab/mmaction2)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
