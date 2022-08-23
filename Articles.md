@@ -285,7 +285,20 @@
 <details>
 <summary>
 
-# 14. 模型压缩 & MMRazor
+# 14. 模型压缩 & MMRazor [<img src="https://github.com/open-mmlab/mmrazor/blob/master/resources/mmrazor-logo.png" height="36">](https://github.com/open-mmlab/mmrazor)
+</summary>
+
+| 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
+|--|--|--|--|--|
+| 蒸馏、剪枝、网络结构搜索全方向覆盖！模型轻量化，没有比 MMRazor 更锋利的
+ | 文章 | [# 蒸馏、剪枝、网络结构搜索全方向覆盖！模型轻量化，没有比MMRazor更锋利的](https://zhuanlan.zhihu.com/p/448896019) | [# 蒸馏、剪枝、网络结构搜索全方向覆盖！模型轻量化，没有比 MMRazor 更锋利的](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485734&idx=1&sn=f0701f5a6745c18a33e6c5a289bf345a&chksm=ebb501c4dcc288d2968391865fc1010be5049bf045d5175f108f248db623e22f67f86711744e&token=1125533908&lang=zh_CN#rd) | 2021/12/23 |
+| 经典网络结构搜索算法 SPOS，助你快速完成模型压缩 | 文章 | [# 经典网络结构搜索算法 SPOS，快速完成模型压缩](https://zhuanlan.zhihu.com/p/538779766) | [# 经典网络结构搜索算法 SPOS，助你快速完成模型压缩](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247493919&idx=1&sn=b91c4e5a514fcfc59d980fc21e284d6a&chksm=ebb6e1fddcc168ebe4632924cdbfa90c0b5c9e0ff17f087797df9022b1975b0c0a6e39af8ce1&token=1125533908&lang=zh_CN#rd) | 2022/07/07 |
+</details>
+
+<details>
+<summary>
+
+# 15. 人体参数化模型 & MMHuman3D [<img src="https://github.com/open-mmlab/mmrotate/blob/main/resources/mmrotate-logo.png" height="36">](https://github.com/open-mmlab/mmrotate)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
@@ -298,7 +311,7 @@
 <details>
 <summary>
 
-# 15. 人体参数化模型 & MMHuman3D
+# 16. 少样本学习 & MMFewShot [<img src="https://github.com/open-mmlab/mmrotate/blob/main/resources/mmrotate-logo.png" height="36">](https://github.com/open-mmlab/mmrotate)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
@@ -311,7 +324,7 @@
 <details>
 <summary>
 
-# 16. 少样本学习 & MMFewShot
+# 17. 行为理解 & MMAction2 [<img src="https://github.com/open-mmlab/mmrotate/blob/main/resources/mmrotate-logo.png" height="36">](https://github.com/open-mmlab/mmrotate)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
@@ -324,7 +337,7 @@
 <details>
 <summary>
 
-# 17. 行为理解 & MMAction2
+# 18. 文本检测识别理解 & MMOCR [<img src="https://github.com/open-mmlab/mmrotate/blob/main/resources/mmrotate-logo.png" height="36">](https://github.com/open-mmlab/mmrotate)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
@@ -337,20 +350,7 @@
 <details>
 <summary>
 
-# 18. 文本检测识别理解 & MMOCR
-</summary>
-
-| 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
-|--|--|--|--|--|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-</details>
-
-<details>
-<summary>
-
-# 19. 生成模型 & MMGeneration
+# 19. 生成模型 & MMGeneration [<img src="https://github.com/open-mmlab/mmrotate/blob/main/resources/mmrotate-logo.png" height="36">](https://github.com/open-mmlab/mmrotate)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
