@@ -195,7 +195,7 @@
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
-| 社区精选 &#124 OpenMMLab 的 cfg 模式和 Registry 机制 | 文章 | [# OpenMMLab 的 cfg 模式和 Registry 机制](https://zhuanlan.zhihu.com/p/387484734) | [# 社区精选 - OpenMMLab 的 cfg 模式和 Registry 机制](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484781&idx=1&sn=5075f0c353754f0e51945c5bfc07ddbf&chksm=ebb50d8fdcc28499987df3c099845eb5390f65fade80611513006e675c98268eee2827178fc7&token=1125533908&lang=zh_CN#rd) | 2021/10/13 |
+| 社区精选 &#124; OpenMMLab 的 cfg 模式和 Registry 机制 | 文章 | [# OpenMMLab 的 cfg 模式和 Registry 机制](https://zhuanlan.zhihu.com/p/387484734) | [# 社区精选 - OpenMMLab 的 cfg 模式和 Registry 机制](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484781&idx=1&sn=5075f0c353754f0e51945c5bfc07ddbf&chksm=ebb50d8fdcc28499987df3c099845eb5390f65fade80611513006e675c98268eee2827178fc7&token=1125533908&lang=zh_CN#rd) | 2021/10/13 |
 | 如何基于 MMCV 走上开源大佬之路 | 文章 | [# ]() | [# ]() | 2021/10/28 |
 | 拿什么拯救我的 4G 显卡 | 文章 | [# ]() | [# ]() | 2021/11/15 |
 | 过节福利 - MMCV Hook 超全使用方法 | 文章 | [# ]() | [# ]() | 2021/12/24 |
