@@ -40,6 +40,8 @@
 | 目标检测的首选深度框架？ | 问答 | [# 目标检测的首选深度框架？](https://www.zhihu.com/answer/2500571323) |  | 2022/05/25 |
 </details>
 
+
+
 <details>
 <summary>
 
@@ -63,6 +65,8 @@
 | OpenPCDet和mmdetection3d有什么区别? | 问答 | [# OpenPCDet和mmdetection3d有什么区别?](https://www.zhihu.com/answer/2206147084) |  | 2021/11/04 |
 </details>
 
+
+
 <details>
 <summary>
 
@@ -84,6 +88,8 @@
 | 什么是图像分类的Top-5错误率？ | 问答 | [# 什么是图像分类的Top-5错误率？](https://www.zhihu.com/answer/2400009714) |  | 2022/03/21 |
 | 图像分类中的max pooling和average  pooling是对特征的什么来操作的，结果是什么？ | 问答 | [# 图像分类中的max pooling和average pooling是对特征的什么来操作的，结果是什么？](https://www.zhihu.com/answer/2382478754) |  | 2022/03/10 |
 </details>
+
+
 
 <details>
 <summary>
@@ -108,6 +114,8 @@
 | 有关语义分割的奇技淫巧有哪些？ | 问答 | [# 有关语义分割的奇技淫巧有哪些？](https://www.zhihu.com/answer/1621508656) |  | 2020/12/11 |
 | 语义分割该如何走下去？ | 问答 | [# 语义分割该如何走下去？](https://www.zhihu.com/answer/2532479123) |  | 2022/06/17 |
 </details>
+
+
 
 <details>
 <summary>
@@ -137,6 +145,8 @@
 | 如何用 C++ 部署深度学习模型？ | 问答 | [# 如何用 C++ 部署深度学习模型？](https://www.zhihu.com/answer/2393173576) |  | 2022/03/17 |
 </details>
 
+
+
 <details>
 <summary>
 
@@ -157,6 +167,8 @@
 | 人体姿态估计中回归出了heatmap如何去计算关键点的坐标位置？ | 问答 | [# 人体姿态估计中回归出了heatmap如何去计算关键点的坐标位置？](https://www.zhihu.com/answer/2404996258) |  | 2022/03/24 |
 </details>
 
+
+
 <details>
 <summary>
 
@@ -175,6 +187,8 @@
 | 如果我想要深入的学习计算机目标跟踪方向的内容，应该从哪个方面开始入手，比如说看什么书? | 问答 | [# 如果我想要深入的学习计算机目标跟踪方向的内容，应该从哪个方面开始入手，比如说看什么书?](https://www.zhihu.com/answer/1866682282) |  | 2021/05/03 |
 </details>
 
+
+
 <details>
 <summary>
 
@@ -186,6 +200,8 @@
 | MMFlow ：帧与帧之间的追光者 | 文章 | [# 重磅开源！OpenMMLab 光流算法框架：MMFlow](https://zhuanlan.zhihu.com/p/434037886) | [# MMFlow ：帧与帧之间的追光者](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485235&idx=1&sn=e949343857023bde3ca624967f860a82&chksm=ebb50fd1dcc286c7e80d076853549f10ec604e51ba33adc55ad19b84f6787f8a3bf085145466&token=1125533908&lang=zh_CN#rd) | 2021/11/16 |
 | 光流模型概述：从 PWC-Net 到 RAFT | 文章 | [# 光流模型概述：从 PWC-Net 到 RAFT](https://zhuanlan.zhihu.com/p/446739441) |  | 2021/12/20 |
 </details>
+
+
 
 <details>
 <summary>
@@ -214,6 +230,8 @@
 | 深度学习方面的科研工作中的实验代码有什么规范和写作技巧？如何妥善管理实验数据？ | 问答 | [# 深度学习方面的科研工作中的实验代码有什么规范和写作技巧？如何妥善管理实验数据？](https://www.zhihu.com/answer/2586000037) |  | 2022/07/21 |
 </details>
 
+
+
 <details>
 <summary>
 
@@ -237,6 +255,8 @@
 | 自监督学习（Self-supervised Learning）有什么比较新的思路？ | 问答 | [# 自监督学习（Self-supervised Learning）有什么比较新的思路？](https://www.zhihu.com/answer/2368764990) |  | 2022/03/01 |
 </details>
 
+
+
 <details>
 <summary>
 
@@ -256,23 +276,12 @@
 | 传统的图像修复和利用深度学习的图像修复的优缺点比较？ | 问答 | [# 传统的图像修复和利用深度学习的图像修复的优缺点比较？](https://www.zhihu.com/answer/1618198292) |  | 2020/12/09 |
 </details>
 
-<details>
-<summary>
 
-# 12. Pytorch
-</summary>
-
-| 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
-|--|--|--|--|--|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-</details>
 
 <details>
 <summary>
 
-# 13. 旋转框检测 & MMRotate [<img src="https://github.com/open-mmlab/mmrotate/blob/main/resources/mmrotate-logo.png" height="36">](https://github.com/open-mmlab/mmrotate)
+# 12. 旋转框检测 & MMRotate [<img src="https://github.com/open-mmlab/mmrotate/blob/main/resources/mmrotate-logo.png" height="36">](https://github.com/open-mmlab/mmrotate)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
@@ -282,10 +291,12 @@
 | 如何把一个水平框的目标检测框架改成旋转框的目标检测框架？ | 问答 | [# 如何把一个水平框的目标检测框架改成旋转框的目标检测框架？](https://www.zhihu.com/answer/2359334765) |  | 2022/02/22 |
 </details>
 
+
+
 <details>
 <summary>
 
-# 14. 模型压缩 & MMRazor [<img src="https://github.com/open-mmlab/mmrazor/blob/master/resources/mmrazor-logo.png" height="36">](https://github.com/open-mmlab/mmrazor)
+# 13. 模型压缩 & MMRazor [<img src="https://github.com/open-mmlab/mmrazor/blob/master/resources/mmrazor-logo.png" height="36">](https://github.com/open-mmlab/mmrazor)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
@@ -294,10 +305,12 @@
 | 经典网络结构搜索算法 SPOS，助你快速完成模型压缩 | 文章 | [# 经典网络结构搜索算法 SPOS，快速完成模型压缩](https://zhuanlan.zhihu.com/p/538779766) | [# 经典网络结构搜索算法 SPOS，助你快速完成模型压缩](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247493919&idx=1&sn=b91c4e5a514fcfc59d980fc21e284d6a&chksm=ebb6e1fddcc168ebe4632924cdbfa90c0b5c9e0ff17f087797df9022b1975b0c0a6e39af8ce1&token=1125533908&lang=zh_CN#rd) | 2022/07/07 |
 </details>
 
+
+
 <details>
 <summary>
 
-# 15. 人体参数化模型 & MMHuman3D [<img src="https://github.com/open-mmlab/mmhuman3d/blob/main/resources/mmhuman3d-logo.png" height="36">](https://github.com/open-mmlab/mmhuman3d)
+# 14. 人体参数化模型 & MMHuman3D [<img src="https://github.com/open-mmlab/mmhuman3d/blob/main/resources/mmhuman3d-logo.png" height="36">](https://github.com/open-mmlab/mmhuman3d)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
@@ -305,10 +318,12 @@
 | 画形亦画骨，知面也知心，与 MMHuman3D 一道探索人体参数化模型 | 文章 | [# 画形亦画骨，知面也知心，与 MMHuman3D 一道探索人体参数化模型](https://zhuanlan.zhihu.com/p/440090661) | [# 画形亦画骨，知面也知心，与 MMHuman3D 一道探索人体参数化模型](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485482&idx=1&sn=808e3754e37199a9ecd8d1b2adb13172&chksm=ebb500c8dcc289de531dfc948dcbeb669d0a56bda1b50fb4323905bf1e49bcf1b889f3ed15ca&token=1125533908&lang=zh_CN#rd) | 2021/12/03 |
 </details>
 
+
+
 <details>
 <summary>
 
-# 16. 少样本学习 & MMFewShot [<img src="https://github.com/open-mmlab/mmfewshot/blob/main/resources/mmfewshot-logo.png" height="36">](https://github.com/open-mmlab/mmfewshot)
+# 15. 少样本学习 & MMFewShot [<img src="https://github.com/open-mmlab/mmfewshot/blob/main/resources/mmfewshot-logo.png" height="36">](https://github.com/open-mmlab/mmfewshot)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
@@ -316,10 +331,12 @@
 | 举一隅而以三隅反，MMFewshot 带你走近少样本分类 | 文章 | [# 举一隅而以三隅反，MMFewShot 带你走近少样本学习【MMFewshot重磅开源！】](https://zhuanlan.zhihu.com/p/437038040) | [# 举一隅而以三隅反，MMFewshot 带你走近少样本分类](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485382&idx=1&sn=1a31969b3ba47a4cb701f30a65e8472b&chksm=ebb50f24dcc286326cbcb903cd434fd8932a3c5f7b9618284cc0802ab68bf768166cfcafa6a1&token=1125533908&lang=zh_CN#rd) | 2021/11/24 |
 </details>
 
+
+
 <details>
 <summary>
 
-# 17. 行为理解 & MMAction2 [<img src="https://github.com/open-mmlab/mmaction2/blob/master/resources/mmaction2_logo.png" height="36">](https://github.com/open-mmlab/mmaction2)
+# 16. 行为理解 & MMAction2 [<img src="https://github.com/open-mmlab/mmaction2/blob/master/resources/mmaction2_logo.png" height="36">](https://github.com/open-mmlab/mmaction2)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
@@ -331,10 +348,12 @@
 | 行为识别(action recognition)有哪些论文适合入门？ | 问答 | [# 行为识别(action recognition)有哪些论文适合入门？](https://www.zhihu.com/answer/1616881232) |  | 2020/12/08 |
 </details>
 
+
+
 <details>
 <summary>
 
-# 18. 文本检测识别理解 & MMOCR [<img src="https://github.com/open-mmlab/mmocr/blob/main/resources/mmocr-logo.png" height="36">](https://github.com/open-mmlab/mmocr)
+# 17. 文本检测识别理解 & MMOCR [<img src="https://github.com/open-mmlab/mmocr/blob/main/resources/mmocr-logo.png" height="36">](https://github.com/open-mmlab/mmocr)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
@@ -343,10 +362,12 @@
 | 如何看待OpenMMlab最新开源项目MMOCR？ | 问答 | [# 如何看待OpenMMlab最新开源项目MMOCR？](https://www.zhihu.com/answer/1830774267) |  | 2021/04/12 |
 </details>
 
+
+
 <details>
 <summary>
 
-# 19. 生成模型 & MMGeneration [<img src="./resources/mmgeneration_logo.png" height="36">](https://github.com/open-mmlab/mmgeneration)
+# 18. 生成模型 & MMGeneration [<img src="./resources/mmgeneration_logo.png" height="36">](https://github.com/open-mmlab/mmgeneration)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
@@ -360,3 +381,16 @@
 </details>
 
 
+
+<details>
+<summary>
+
+# 19. Pytorch
+</summary>
+
+| 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
+|--|--|--|--|--|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+</details>
