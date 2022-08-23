@@ -272,15 +272,14 @@
 <details>
 <summary>
 
-# 13. 旋转框检测 & MMRotate
+# 13. 旋转框检测 & MMRotate [<img src="https://github.com/open-mmlab/mmrotate/blob/main/resources/mmrotate-logo.png" height="36">](https://github.com/open-mmlab/mmrotate)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
 | 旋转~跳跃~检测王者 MMDetection 的好兄弟来啦！ | 文章 | [# OpenMMLab 正式开源 MMRotate, 专注于旋转目标检测](https://zhuanlan.zhihu.com/p/469065580) | [# 旋转~跳跃~检测王者 MMDetection 的好兄弟来啦！]() | 2022/02/18 |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 目标检测中旋转问题有哪些常用的解决方案？ | 问答 | [# 目标检测中旋转问题有哪些常用的解决方案？](https://www.zhihu.com/answer/2359366595) |  | 2022/02/22 |
+| 如何把一个水平框的目标检测框架改成旋转框的目标检测框架？ | 问答 | [# 如何把一个水平框的目标检测框架改成旋转框的目标检测框架？](https://www.zhihu.com/answer/2359334765) |  | 2022/02/22 |
 </details>
 
 <details>
