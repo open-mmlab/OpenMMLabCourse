@@ -217,7 +217,7 @@
 <details>
 <summary>
 
-# 10. 自监督学习 & MMSelfSup
+# 10. 自监督学习 & MMSelfSup [<img src="https://github.com/open-mmlab/mmselfsup/blob/master/resources/mmselfsup_logo.png" height="36">](https://github.com/open-mmlab/mmselfsup)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
