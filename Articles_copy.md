@@ -1,9 +1,10 @@
-- [目标检测 & MMDetection](#1-目标检测--mmdetection-img-srchttpsgithubcomopen-mmlabmmdetectionblobmasterresourcesmmdet-logopng-height36httpsgithubcomopen-mmlabmmdetection)
-- [3D目标检测 & MMDetection3D](#2-3d目标检测--mmdetection3d-img-srchttpsgithubcomopen-mmlabmmdetection3dblobmasterresourcesmmdet3d-logopng-height36httpsgithubcomopen-mmlabmmdetection3d)
+- [目标检测 & MMDetection](#目标检测--mmdetection-img-srchttpsgithubcomopen-mmlabmmdetectionblobmasterresourcesmmdet-logopng-height36httpsgithubcomopen-mmlabmmdetection)
+- [3D目标检测 & MMDetection3D](#3d目标检测--mmdetection3d-img-srchttpsgithubcomopen-mmlabmmdetection3dblobmasterresourcesmmdet3d-logopng-height36httpsgithubcomopen-mmlabmmdetection3d)
 
 
 
 ## 目标检测 & MMDetection [<img src="https://github.com/open-mmlab/mmdetection/blob/master/resources/mmdet-logo.png" height="36">](https://github.com/open-mmlab/mmdetection)
+
 | 发表日期 | 标题 | 类型 |
 |:-:|-|:-:|
 | 2021/08/11 | [# YOLOX 在 MMDetection 中复现全流程解析](https://zhuanlan.zhihu.com/p/398545304) | 文章 |
@@ -41,11 +42,7 @@
 
 
 
-<details>
-<summary>
-
-## 2. 3D目标检测 & MMDetection3D [<img src="https://github.com/open-mmlab/mmdetection3d/blob/master/resources/mmdet3d-logo.png" height="36">](https://github.com/open-mmlab/mmdetection3d)
-</summary>
+## 3D目标检测 & MMDetection3D [<img src="https://github.com/open-mmlab/mmdetection3d/blob/master/resources/mmdet3d-logo.png" height="36">](https://github.com/open-mmlab/mmdetection3d)
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
@@ -62,7 +59,6 @@
 | 重磅！新增 13 种 Transformer 方法，火速收藏 | 文章 | [# 做 Transformer, OpenMMLab 了解一下？](https://zhuanlan.zhihu.com/p/403661977) | [# 重磅！新增 13 种 Transformer 方法，火速收藏](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484110&idx=1&sn=24327bac442f47a78099ad5abc1dd0d3&chksm=ebb50a2cdcc2833a11114f3ff06e6a0e403f34b8ede229cf7992cb930416d204846ccc0c39b9&token=1125533908&lang=zh_CN#rd) | 2021/08/25 |
 | 如何入门激光雷达点云的3D目标检测？ | 问答 | [# 如何入门激光雷达点云的3D目标检测？](https://www.zhihu.com/answer/2379324138) |  | 2022/03/08 |
 | OpenPCDet和mmdetection3d有什么区别? | 问答 | [# OpenPCDet和mmdetection3d有什么区别?](https://www.zhihu.com/answer/2206147084) |  | 2021/11/04 |
-</details>
 
 
 
