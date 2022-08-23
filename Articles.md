@@ -346,7 +346,7 @@
 <details>
 <summary>
 
-# 19. 生成模型 & MMGeneration [<img src="https://github.com/open-mmlab/mmrotate/blob/main/resources/mmrotate-logo.png" height="36">](https://github.com/open-mmlab/mmrotate)
+# 19. 生成模型 & MMGeneration [<img src="./resources/mmgeneration_logo.png" height="36">](https://github.com/open-mmlab/mmgeneration)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
