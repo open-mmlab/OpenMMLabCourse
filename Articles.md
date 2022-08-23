@@ -231,6 +231,10 @@
 | 更好的性能！新型自监督学习方法 CAE 了解一下 | 文章 | [# 更好的性能！新型自监督学习方法 CAE 了解一下](https://zhuanlan.zhihu.com/p/510279419) | [# 更好的性能！新型自监督学习方法 CAE 了解一下](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490521&idx=1&sn=f3ff8dffd3fb1ca212def6c8bc4af175&chksm=ebb5133bdcc29a2d1628c59fb49c2b5b7cb2fc99f4d662d247bf57838f94d5831f86e2fd778b#rd) | 2022/05/06 |
 | 手把手带你高效复现最新自监督算法 | 文章 | [# 【预告】社区开放麦第 4 期：手把手带你高效复现最新自监算法](https://zhuanlan.zhihu.com/p/511711378) | [# 手把手带你高效复现最新自监督算法](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490544&idx=1&sn=e979779ecf3fa9387c7770bcf0728cde&chksm=ebb51312dcc29a047bb78d20baccf9bf4cca14f08dccb9e719a1e7872c16983b4d997614b2f9#rd) | 2022/05/09 |
 | CVPR22 Oral &#124; TransRank: 利用排序损失提供高质量自监督信号 | 文章 | [# CVPR22 Oral &#124; TransRank: 利用排序损失提供高质量自监督信号](https://zhuanlan.zhihu.com/p/526591316) | [# CVPR22 Oral &#124; TransRank: 利用排序损失提供高质量自监督信号](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247492600&idx=1&sn=55565af41ea561e7134117daf3e449f8&chksm=ebb6eb1adcc1620cab9973d26aad3369041dd6f13b318c577ec11198f8742b9f28df97ecb139&token=1125533908&lang=zh_CN#rd) | 2022/06/09 |
+| 你见过哪些新颖的或有效的「自监督学习样本构建技巧」？ | 问答 | [# 你见过哪些新颖的或有效的「自监督学习样本构建技巧」？](https://www.zhihu.com/answer/2418397841) |  | 2022/04/01 |
+| 如何评价FAIR提出的MaskFeat：一种适用图像和视频分类的自监督学习方法？ | 问答 | [# 如何评价FAIR提出的MaskFeat：一种适用图像和视频分类的自监督学习方法？](https://www.zhihu.com/answer/2388634728) |  | 2022/03/14 |
+| 有监督和无监督学习都各有哪些有名的算法和深度学习？ | 问答 | [# 有监督和无监督学习都各有哪些有名的算法和深度学习？](https://www.zhihu.com/answer/2377782709) |  | 2022/03/07 |
+| 自监督学习（Self-supervised Learning）有什么比较新的思路？ | 问答 | [# 自监督学习（Self-supervised Learning）有什么比较新的思路？](https://www.zhihu.com/answer/2368764990) |  | 2022/03/01 |
 </details>
 
 <details>
