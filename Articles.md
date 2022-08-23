@@ -313,9 +313,7 @@
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 举一隅而以三隅反，MMFewshot 带你走近少样本分类 | 文章 | [# 举一隅而以三隅反，MMFewShot 带你走近少样本学习【MMFewshot重磅开源！】](https://zhuanlan.zhihu.com/p/437038040) | [# 举一隅而以三隅反，MMFewshot 带你走近少样本分类](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485382&idx=1&sn=1a31969b3ba47a4cb701f30a65e8472b&chksm=ebb50f24dcc286326cbcb903cd434fd8932a3c5f7b9618284cc0802ab68bf768166cfcafa6a1&token=1125533908&lang=zh_CN#rd) | 2021/11/24 |
 </details>
 
 <details>
