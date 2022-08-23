@@ -5,7 +5,7 @@
 
 ## 目标检测 & MMDetection
 
-<-- [<img src="https://github.com/open-mmlab/mmdetection/blob/master/resources/mmdet-logo.png" height="36">](https://github.com/open-mmlab/mmdetection) -->
+<!--- [<img src="https://github.com/open-mmlab/mmdetection/blob/master/resources/mmdet-logo.png" height="36">](https://github.com/open-mmlab/mmdetection) --->
 
 | 发表日期 | 标题 | 类型 |
 |:-:|-|:-:|
@@ -46,7 +46,7 @@
 
 ## 3D目标检测 & MMDetection3D
 
-<-- [<img src="https://github.com/open-mmlab/mmdetection3d/blob/master/resources/mmdet3d-logo.png" height="36">](https://github.com/open-mmlab/mmdetection3d) -->
+<!--- [<img src="https://github.com/open-mmlab/mmdetection3d/blob/master/resources/mmdet3d-logo.png" height="36">](https://github.com/open-mmlab/mmdetection3d) --->
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
