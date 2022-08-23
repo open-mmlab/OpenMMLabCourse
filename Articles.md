@@ -385,12 +385,40 @@
 <details>
 <summary>
 
-# 19. Pytorch
+# 19. Pytorch & General
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| PyTorch 零基础入门 GAN 模型之评价指标 | 文章 | [# PyTorch 零基础入门 GAN 模型之评价指标](https://zhuanlan.zhihu.com/p/428527281) | [# PyTorch 零基础入门 GAN 模型之评价指标](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485032&idx=1&sn=3b20a89c141a69e4da1a1a9b82f59c10&chksm=ebb50e8adcc2879c1f6729bf420d6ee94b65d55b0ee3e4944a81bbe3a47b714b30c65fc47d26&token=1125533908&lang=zh_CN#rd) | 2021/11/03 |
+| 一睹为快！PyTorch1.11 亮点一览 | 文章 | [# PyTorch1.11 亮点一览：TorchData、functorch、DDP 静态图](https://zhuanlan.zhihu.com/p/486222256) | [# 一睹为快！PyTorch1.11 亮点一览](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247489699&idx=1&sn=d9021a31d46eda85c0bb26c6f52c7239&chksm=ebb51041dcc2995742c5e6c691fa5117d79837670cda740fe166b10a5c2772fa19406d1f002a#rd) | 2022/03/23 |
+| PyTorch 小课堂开课啦！带你解析数据处理全流程（一） | 文章 | [# PyTorch 源码解读之 torch.utils.data：解析数据处理全流程](https://zhuanlan.zhihu.com/p/337850513) | [# PyTorch 小课堂开课啦！带你解析数据处理全流程（一）](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490074&idx=1&sn=019fcbf4574cdf32c3f2465f42bb4bf3&chksm=ebb512f8dcc29bee7a7e67c520cc121d48e7dc32792bcbb944fb8d25062d275f199984f9f772#rd) | 2022/04/08 |
+| PyTorch 小课堂！带你解析数据处理全流程（二） | 文章 | [# PyTorch 源码解读之 torch.utils.data：解析数据处理全流程](https://zhuanlan.zhihu.com/p/337850513) | [# PyTorch 小课堂！带你解析数据处理全流程（二）](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490145&idx=1&sn=bf079b1db74f59fbe8f2b1bfa382b7c2&chksm=ebb51283dcc29b9553671f31da1616431130318806cea72dc238fb87359db7f2f9b339454fa0#rd) | 2022/04/13 |
+| PyTorch 小课堂！一篇看懂核心网络模块接口 | 文章 | [# PyTorch 源码解读之 nn.Module：核心网络模块接口详解](https://zhuanlan.zhihu.com/p/340453841) | [# PyTorch 小课堂！一篇看懂核心网络模块接口](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490275&idx=1&sn=58dfde00497a20068251530bbb5ba4dd&chksm=ebb51201dcc29b1700fcdcc9054982b8e72ddfc66d0b001750b94ce28c9750215a1da533f132#rd) | 2022/04/20 |
+| 一小时带你了解 Torch DDP 背后的系统设计 | 文章 | [# 【预告】社区开放麦第3期：带你了解 Torch DDP 背后的系统设计](https://zhuanlan.zhihu.com/p/508685383) | [# 一小时带你了解 Torch DDP 背后的系统设计](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490483&idx=1&sn=6971d7a05232f9dcadd5861ed02224cd&chksm=ebb51351dcc29a47fffb1d8f813c11ac1c6a1fe240ac86006bfeb26da9bd67b65b2a38b8e71e#rd) | 2022/05/03 |
+| PyTorch 小课堂！梯度计算详解 | 文章 | [# PyTorch 源码解读之 torch.autograd：梯度计算详解](https://zhuanlan.zhihu.com/p/321449610) | [# PyTorch 小课堂！梯度计算详解](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247491513&idx=1&sn=c169809b9586119147e9b1da267d6a4e&chksm=ebb5175bdcc29e4d73d55f842c2b0e7d5333df08ce9fcab6443a314f180c730fdf0c1957b36b&token=1125533908&lang=zh_CN#rd) | 2022/06/02 |
+| PyTorch1.12 亮点一览！新的数据加载与处理范式 | 文章 | [# PyTorch1.12 亮点一览 &#124; DataPipe + TorchArrow 新的数据加载与处理范式](https://zhuanlan.zhihu.com/p/537868554) | [# PyTorch1.12 亮点一览！新的数据加载与处理范式](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247493740&idx=1&sn=d839a418d64b9fa585017c4dd4e835e3&chksm=ebb6e08edcc16998cb00c54e0bd7b3a5a30ccd60b7ca5f8190326762b12f6719dc6045e371f9&token=1125533908&lang=zh_CN#rd) | 2022/07/05 |
+| 有没有那种直接上手就能提 PR 的？文末福利！ | 文章 | [# OpenMMLab 【成为我们的贡献者】有奖活动正式开启！](https://zhuanlan.zhihu.com/p/472372230) | [# 有没有那种直接上手就能提 PR 的？文末福利！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247487965&idx=1&sn=8dd4691b2f6e785876c6d7c912b97e2b&chksm=ebb5193fdcc2902974b697e086e804756fc4bd488d64e8b54bc8dc1a12929b3761cb34a7338a#rd) | 2022/02/25 |
+| 新栏目【社区开放麦】开播啦！首期我们聊聊这个 | 文章 | [# 【预告】社区开放麦第 1 期：基于关键点的动作识别](https://zhuanlan.zhihu.com/p/499228474) | [# 新栏目【社区开放麦】开播啦！首期我们聊聊这个](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490227&idx=1&sn=0d32eb93192cb0976b65893aea00e6a1&chksm=ebb51251dcc29b47fa281135de1525ab9a100bccb4781aaafc1cc37282b1f76bace3d6902d2b#rd) | 2022/04/15 |
+| 访问 GitHub 太慢？OpenMMLab 入驻 Gitee！ | 文章 | [# 访问 GitHub 太慢？OpenMMLab 入驻 Gitee！](https://zhuanlan.zhihu.com/p/506187883) | [# 访问 GitHub 太慢？OpenMMLab 入驻 Gitee！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490425&idx=1&sn=8d26eb866eaa19f0da2ad7f7d8194b11&chksm=ebb5139bdcc29a8d29f1ce386d62ad2382aae5ad96546470b3a6877e69e38987c447aafb3518#rd) | 2022/04/27 |
+| 计算机研究生刚上岸，深度学习方向，想要就业的话，应该如何规划研究生三年？ | 问答 | [# ]() |  |  |
+| 应届硕士毕业生如何拿到知名互联网公司算法岗（机器学习、数据挖掘、深度学习）  offer？ | 问答 | [# ]() |  |  |
+| 非计算机专业的学生如何入门深度学习？ | 问答 | [# ]() |  |  |
+| 新入学的计算机研究生怎么安排三年学习深度学习？ | 问答 | [# ]() |  |  |
+| 国内 top2 高校研一在读，为什么感觉深度学习越学越懵? | 问答 | [# ]() |  |  |
+| 如何在GitHub上做一个优秀的贡献者？ | 问答 | [# ]() |  |  |
+| 如何成为开源项目的Committer/Collaborator/Member？ | 问答 | [# ]() |  |  |
+| 为什么要开源？ | 问答 | [# ]() |  |  |
+| 对自己深度学习方向的论文有idea，可是工程实践能力跟不上，实验搞不定怎么办？ | 问答 | [# ]() |  |  |
+| 如何看待国内开源项目的不可持续性？ | 问答 | [# ]() |  |  |
+| GitHub 上有哪些适合新手跟进的优质项目？ | 问答 | [# ]() |  |  |
+| 如何通过 GitHub 加入开源项目？ | 问答 | [# ]() |  |  |
+| 我想成为一个开源代码贡献者，我该怎么做？ | 问答 | [# ]() |  |  |
+| 在校生如何在开源社区中成长？ | 问答 | [# ]() |  |  |
+| 如何运营一个开源项目并取得较大影响力？ | 问答 | [# ]() |  |  |
+| 新手如何入门pytorch？ | 问答 | [# ]() |  |  |
+| 如果学习从零开始学习Pytorch,有优秀的开源项目可以推荐吗？ | 问答 | [# ]() |  |  |
+| 如何最简单、通俗地理解Pytorch？ | 问答 | [# ]() |  |  |
+| 如何看待Transformer在CV上的应用前景，未来有可能替代CNN吗？ | 问答 | [# ]() |  |  |
+| PyTorch把tensor的require_grad设置为True对最终的结果有什么影响？ | 问答 | [# ]() |  |  |
 </details>
