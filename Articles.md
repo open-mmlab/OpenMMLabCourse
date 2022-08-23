@@ -297,14 +297,12 @@
 <details>
 <summary>
 
-# 15. 人体参数化模型 & MMHuman3D [<img src="https://github.com/open-mmlab/mmrotate/blob/main/resources/mmrotate-logo.png" height="36">](https://github.com/open-mmlab/mmrotate)
+# 15. 人体参数化模型 & MMHuman3D [<img src="https://github.com/open-mmlab/mmhuman3d/blob/main/resources/mmhuman3d-logo.png" height="36">](https://github.com/open-mmlab/mmhuman3d)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 画形亦画骨，知面也知心，与 MMHuman3D 一道探索人体参数化模型 | 文章 | [# 画形亦画骨，知面也知心，与 MMHuman3D 一道探索人体参数化模型](https://zhuanlan.zhihu.com/p/440090661) | [# 画形亦画骨，知面也知心，与 MMHuman3D 一道探索人体参数化模型](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485482&idx=1&sn=808e3754e37199a9ecd8d1b2adb13172&chksm=ebb500c8dcc289de531dfc948dcbeb669d0a56bda1b50fb4323905bf1e49bcf1b889f3ed15ca&token=1125533908&lang=zh_CN#rd) | 2021/12/03 |
 </details>
 
 <details>
