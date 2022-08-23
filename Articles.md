@@ -178,7 +178,7 @@
 <details>
 <summary>
 
-# 8. 光流估计 & MMFlow
+# 8. 光流估计 & MMFlow [<img src="https://github.com/open-mmlab/mmflow/blob/master/resources/mmflow-logo.png" height="36">](https://github.com/open-mmlab/mmflow)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
