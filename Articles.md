@@ -208,6 +208,10 @@
 | 为什么 MMCV v1.5.0 值得一个头条 | 文章 | [# OpenMMLab 支持 IPU 训练芯片](https://zhuanlan.zhihu.com/p/517527926) | [# 为什么 MMCV v1.5.0 值得一个头条](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247491082&idx=1&sn=1ba1c4938c2f64fb902ad2326701b073&chksm=ebb516e8dcc29ffe4eabdfc27879b3b4479f608a356e50111a745960d706f356f13c162ee6cd#rd) | 2022/05/20 |
 | 揭秘 OpenMMLab 模块化设计背后的功臣 | 文章 | [# 【社区开放麦】第 9 期 揭秘 OpenMMLab 模块化设计背后的功臣](https://www.zhihu.com/zvideo/1521928802674864128) | [# 揭秘 OpenMMLab 模块化设计背后的功臣](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247492731&idx=1&sn=aeda217fab8b57dab91f032a8fe86b37&chksm=ebb6ec99dcc1658ff399ce42f23d577c2093c5382fc634021bdb2ac067bd98b40f3fa1f146b6&token=1125533908&lang=zh_CN#rd) | 2022/06/13 |
 | PyTorch & MMCV Dispatcher 机制解析 | 文章 | [# PyTorch & MMCV Dispatcher 机制解析](https://zhuanlan.zhihu.com/p/451671838) | [# PyTorch & MMCV Dispatcher 机制解析](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485865&idx=1&sn=4ca369e58e3deeecede8956501169909&chksm=ebb5014bdcc2885d9554caefec264668bfeb2bddd02210a300c52c8d2bbcccd62f011d53c9c9&token=1125533908&lang=zh_CN#rd) | 2021/12/30 |
+| 深度学习方面的科研工作中的实验代码有什么规范和写作技巧？如何妥善管理实验数据？ | 问答 | [# 深度学习方面的科研工作中的实验代码有什么规范和写作技巧？如何妥善管理实验数据？](https://www.zhihu.com/answer/2586000037) |  | 2022/07/21 |
+| 深度学习科研，如何高效进行代码和实验管理？ | 问答 | [# 深度学习科研，如何高效进行代码和实验管理？](https://www.zhihu.com/answer/2480772257) |  | 2022/05/11 |
+| Pytorch有什么节省显存的小技巧？ | 问答 | [# Pytorch有什么节省显存的小技巧？](https://www.zhihu.com/answer/2260661999) |  | 2021/12/07 |
+| 深度学习方面的科研工作中的实验代码有什么规范和写作技巧？如何妥善管理实验数据？ | 问答 | [# 深度学习方面的科研工作中的实验代码有什么规范和写作技巧？如何妥善管理实验数据？](https://www.zhihu.com/answer/2586000037) |  | 2022/07/21 |
 </details>
 
 <details>
