@@ -308,7 +308,7 @@
 <details>
 <summary>
 
-# 16. 少样本学习 & MMFewShot [<img src="https://github.com/open-mmlab/mmrotate/blob/main/resources/mmrotate-logo.png" height="36">](https://github.com/open-mmlab/mmrotate)
+# 16. 少样本学习 & MMFewShot [<img src="https://github.com/open-mmlab/mmfewshot/blob/main/resources/mmfewshot-logo.png" height="36">](https://github.com/open-mmlab/mmfewshot)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
