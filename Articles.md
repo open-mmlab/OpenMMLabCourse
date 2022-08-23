@@ -334,14 +334,13 @@
 <details>
 <summary>
 
-# 18. 文本检测识别理解 & MMOCR [<img src="https://github.com/open-mmlab/mmrotate/blob/main/resources/mmrotate-logo.png" height="36">](https://github.com/open-mmlab/mmrotate)
+# 18. 文本检测识别理解 & MMOCR [<img src="https://github.com/open-mmlab/mmocr/blob/main/resources/mmocr-logo.png" height="36">](https://github.com/open-mmlab/mmocr)
 </summary>
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| MMOCR &#124; 全方位食用指南拿来吧 | 文章 | [# 拿来吧你！MMOCR 全方位食用指南](https://zhuanlan.zhihu.com/p/400578588) | [# MMOCR &#124; 全方位食用指南拿来吧你！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247483994&idx=1&sn=3e6f426183f79c0066e3eee687c6a24c&chksm=ebb50ab8dcc283aebb758eaf1acf6b56098da40d1a14c2d9f5985d8ad748866a53c704085760&token=1125533908&lang=zh_CN#rd) | 2021/08/20 |
+| 如何看待OpenMMlab最新开源项目MMOCR？ | 问答 | [# 如何看待OpenMMlab最新开源项目MMOCR？](https://www.zhihu.com/question/453782543/answer/1830774267) |  | 2021/04/12 |
 </details>
 
 <details>
