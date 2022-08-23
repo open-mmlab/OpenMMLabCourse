@@ -324,9 +324,11 @@
 
 | 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
 |--|--|--|--|--|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| MMAction2 &#124; 基于人体姿态的动作识别新范式 PoseC3D | 文章 | [# PoseC3D: 基于人体姿态的动作识别新范式](https://zhuanlan.zhihu.com/p/395588459) | [# MMAction2 &#124; 基于人体姿态的动作识别新范式 PoseC3D](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484134&idx=1&sn=db71f358cbb49dc41bed2813560ad6f3&chksm=ebb50a04dcc28312a6f2a753bc5fa2e2d9d44e71e49132ecf362f0279845f75a7354e9dedd99&token=1125533908&lang=zh_CN#rd) | 2021/08/27 |
+| 超轻量更泛化！基于人体骨骼点的动作识别 | 文章 | [# 超轻量更泛化！基于人体骨骼点的动作识别](https://zhuanlan.zhihu.com/p/426695879) | [# 超轻量更泛化！基于人体骨骼点的动作识别](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485011&idx=1&sn=fb45c0eb5c08f6d0d2e77d0ce6647c63&chksm=ebb50eb1dcc287a746ece8a6814a7b63202e96b83f2414b6517b7288da702714fefa83c3d2a4&token=1125533908&lang=zh_CN#rd) | 2021/11/02 |
+| 视频训练效率太低？试试这个加速算法 | 文章 | [# 视频训练效率太低？Multigrid 加速算法了解一下](https://zhuanlan.zhihu.com/p/481993402) | [# 视频训练效率太低？试试这个加速算法](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247489386&idx=1&sn=bcbc6aa1cc9737ad6de5ca66ce4c2206&chksm=ebb51f88dcc2969e75ed7a975f619dead48249daf6ba1b33ca147ac7b8886691768879c96683#rd) | 2022/03/16 |
+| 如何学习视频识别技术？ | 问答 | [# 如何学习视频识别技术？](https://www.zhihu.com/answer/1864039491) |  | 2021/05/01 |
+| 行为识别(action recognition)有哪些论文适合入门？ | 问答 | [# 行为识别(action recognition)有哪些论文适合入门？](https://www.zhihu.com/answer/1616881232) |  | 2020/12/08 |
 </details>
 
 <details>
