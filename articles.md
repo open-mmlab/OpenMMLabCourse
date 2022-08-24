@@ -262,21 +262,19 @@
 <!--- [<img src="https://github.com/open-mmlab/mmselfsup/blob/master/resources/mmselfsup_logo.png" height="36">](https://github.com/open-mmlab/mmselfsup) --->
 
 
-| 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
-|--|--|--|--|--|
-| 向我们迎面走来的，是有较强自我管理意识的MMSelfSup！ | 文章 | [# 向我们迎面走来的是：有较强自我管理意识的MMSelfSup！](https://zhuanlan.zhihu.com/p/445771658) | [# 向我们迎面走来的，是有较强自我管理意识的MMSelfSup！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485681&idx=1&sn=6d4032437fc81ff8e7edffbc1db746cf&chksm=ebb50013dcc289056829f8212bb7a5b7c586150e2ffb871f3aaccfdaa2e9015438bae0c7d536&token=1125533908&lang=zh_CN#rd) | 2021/12/16 |
-| MMSelfSup - MAE 尝鲜版来啦！ | 文章 | [# MMSelfSup - MAE 尝鲜版来啦！](https://zhuanlan.zhihu.com/p/454358280) | [# MMSelfSup - MAE 尝鲜版来啦！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485976&idx=1&sn=e4cd66e8b879a62bc9e62d5e09ef3bb7&chksm=ebb502fadcc28becd3006a56b03d8e5e5dd71af94a818b61d8813a623dc993701631c3c83df3&token=1125533908&lang=zh_CN#rd) | 2022/01/07 |
-| 自监督这么热，快抓紧时间上车：基于 Pretext Task 的自监督学习 | 文章 | [# 自监督学习系列（一）：基于 Pretext Task](https://zhuanlan.zhihu.com/p/470914640) | [# 自监督这么热，快抓紧时间上车：基于 Pretext Task 的自监督学习](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247487906&idx=1&sn=1f2f08006b58b17c590a536efa2e2857&chksm=ebb51940dcc29056347a1be7dd7c6b72b2fc2c9980e933d84b76bc3a30285cbc191313fde5be#rd) | 2022/02/23 |
-| 拉开你和别人的距离，只差 Contrastive Learning 这一步 | 文章 | [# 自监督学习系列（二）：基于 Contrastive Learning](https://zhuanlan.zhihu.com/p/474847821) | [# 拉开你和别人的距离，只差 Contrastive Learning 这一步](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247488233&idx=1&sn=4f4a5e6b2f00c80c90b49e71e8be9321&chksm=ebb51a0bdcc2931da43171ba39d602469201e7fc857d02dfba12ccba8acab8410352c0e59ee3#rd) | 2022/03/02 |
-| 见微知著，掩码自监督学习让你一叶知秋 | 文章 | [# 自监督学习系列（三）：基于 Masked Image Modeling](https://zhuanlan.zhihu.com/p/475952825) | [# 见微知著，掩码自监督学习让你一叶知秋](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247488305&idx=1&sn=d7285f62ce28630a9774917585ddac32&chksm=ebb51bd3dcc292c59ccf63b7888f9f8c97e016fd181ae1dbdf2eab61e8964728c5e7ade41e71#rd) | 2022/03/04 |
-| 简单的结构，优异的性能，SimMIM 来了！ | 文章 | [# 简单的结构，优异的性能，SimMIM 来了！](https://zhuanlan.zhihu.com/p/491004196) | [# 简单的结构，优异的性能，SimMIM 来了！](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247489971&idx=1&sn=a57cb9b9f0a7e94fadf2c75588524ebc&chksm=ebb51151dcc29847ff22fc5edab44f9a81d4b69fb3f7bc4e42365d0d62eecca9d7d7f5427325#rd) | 2022/03/31 |
-| 更好的性能！新型自监督学习方法 CAE 了解一下 | 文章 | [# 更好的性能！新型自监督学习方法 CAE 了解一下](https://zhuanlan.zhihu.com/p/510279419) | [# 更好的性能！新型自监督学习方法 CAE 了解一下](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490521&idx=1&sn=f3ff8dffd3fb1ca212def6c8bc4af175&chksm=ebb5133bdcc29a2d1628c59fb49c2b5b7cb2fc99f4d662d247bf57838f94d5831f86e2fd778b#rd) | 2022/05/06 |
-| 手把手带你高效复现最新自监督算法 | 文章 | [# 【预告】社区开放麦第 4 期：手把手带你高效复现最新自监算法](https://zhuanlan.zhihu.com/p/511711378) | [# 手把手带你高效复现最新自监督算法](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247490544&idx=1&sn=e979779ecf3fa9387c7770bcf0728cde&chksm=ebb51312dcc29a047bb78d20baccf9bf4cca14f08dccb9e719a1e7872c16983b4d997614b2f9#rd) | 2022/05/09 |
-| CVPR22 Oral TransRank: 利用排序损失提供高质量自监督信号 | 文章 | [# CVPR22 Oral TransRank: 利用排序损失提供高质量自监督信号](https://zhuanlan.zhihu.com/p/526591316) | [# CVPR22 Oral TransRank: 利用排序损失提供高质量自监督信号](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247492600&idx=1&sn=55565af41ea561e7134117daf3e449f8&chksm=ebb6eb1adcc1620cab9973d26aad3369041dd6f13b318c577ec11198f8742b9f28df97ecb139&token=1125533908&lang=zh_CN#rd) | 2022/06/09 |
-| 你见过哪些新颖的或有效的「自监督学习样本构建技巧」？ | 问答 | [# 你见过哪些新颖的或有效的「自监督学习样本构建技巧」？](https://www.zhihu.com/answer/2418397841) | | 2022/04/01 |
-| 如何评价FAIR提出的MaskFeat：一种适用图像和视频分类的自监督学习方法？ | 问答 | [# 如何评价FAIR提出的MaskFeat：一种适用图像和视频分类的自监督学习方法？](https://www.zhihu.com/answer/2388634728) | | 2022/03/14 |
-| 有监督和无监督学习都各有哪些有名的算法和深度学习？ | 问答 | [# 有监督和无监督学习都各有哪些有名的算法和深度学习？](https://www.zhihu.com/answer/2377782709) | | 2022/03/07 |
-| 自监督学习（Self-supervised Learning）有什么比较新的思路？ | 问答 | [# 自监督学习（Self-supervised Learning）有什么比较新的思路？](https://www.zhihu.com/answer/2368764990) | | 2022/03/01 |
+- \[2021/12/16\] [# 向我们迎面走来的是：有较强自我管理意识的MMSelfSup！](https://zhuanlan.zhihu.com/p/445771658)
+- \[2022/01/07\] [# MMSelfSup - MAE 尝鲜版来啦！](https://zhuanlan.zhihu.com/p/454358280)
+- \[2022/02/23\] [# 自监督学习系列（一）：基于 Pretext Task](https://zhuanlan.zhihu.com/p/470914640)
+- \[2022/03/02\] [# 自监督学习系列（二）：基于 Contrastive Learning](https://zhuanlan.zhihu.com/p/474847821)
+- \[2022/03/04\] [# 自监督学习系列（三）：基于 Masked Image Modeling](https://zhuanlan.zhihu.com/p/475952825)
+- \[2022/03/31\] [# 简单的结构，优异的性能，SimMIM 来了！](https://zhuanlan.zhihu.com/p/491004196)
+- \[2022/05/06\] [# 更好的性能！新型自监督学习方法 CAE 了解一下](https://zhuanlan.zhihu.com/p/510279419)
+- \[2022/05/09\] [# 【预告】社区开放麦第 4 期：手把手带你高效复现最新自监算法](https://zhuanlan.zhihu.com/p/511711378)
+- \[2022/06/09\] [# CVPR22 Oral TransRank: 利用排序损失提供高质量自监督信号](https://zhuanlan.zhihu.com/p/526591316)
+- \[2022/04/01\] [# 你见过哪些新颖的或有效的「自监督学习样本构建技巧」？](https://www.zhihu.com/answer/2418397841)
+- \[2022/03/14\] [# 如何评价FAIR提出的MaskFeat：一种适用图像和视频分类的自监督学习方法？](https://www.zhihu.com/answer/2388634728)
+- \[2022/03/07\] [# 有监督和无监督学习都各有哪些有名的算法和深度学习？](https://www.zhihu.com/answer/2377782709)
+- \[2022/03/01\] [# 自监督学习（Self-supervised Learning）有什么比较新的思路？](https://www.zhihu.com/answer/2368764990)
 
 
 
