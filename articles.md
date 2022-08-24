@@ -1,25 +1,23 @@
+- [9. 基础架构 & MMCV](#9-计算机视觉基础库--mmcv)
 - [1. 目标检测 & MMDetection](#1-目标检测--mmdetection)
 - [2. 3D目标检测 & MMDetection3D](#2-3d目标检测--mmdetection3d)
+- [12. 旋转框检测 & MMRotate](#12-旋转框检测--mmrotate)
 - [3. 图像分类 & MMClassification](#3-图像分类--mmclassification)
 - [4. 语义分割 & MMSegmentation](#4-语义分割--mmsegmentation)
-- [5. 模型部署 & MMdeploy](#5-模型部署--mmdeploy)
-- [6. 姿态估计 & MMPose](#6-姿态估计--mmpose)
-- [7. 视频感知 & MMTracking](#7-视频感知--mmtracking)
-- [8. 光流估计 & MMFlow](#8-光流估计--mmflow)
-- [9. 计算机视觉基础库 & MMCV](#9-计算机视觉基础库--mmcv)
-- [10. 自监督学习 & MMSelfSup](#10-自监督学习--mmselfsup)
-- [11. 视频和图像编辑 & MMEditing](#11-视频和图像编辑--mmediting)
-- [12. 旋转框检测 & MMRotate](#12-旋转框检测--mmrotate)
-- [13. 模型压缩 & MMRazor](#13-模型压缩--mmrazor)
-- [14. 人体参数化模型 & MMHuman3D](#14-人体参数化模型--mmhuman3d)
-- [15. 少样本学习 & MMFewShot](#15-少样本学习--mmfewshot)
-- [16. 行为理解 & MMAction2](#16-行为理解--mmaction2)
-- [17. 文本检测识别理解 & MMOCR](#17-文本检测识别理解--mmocr)
 - [18. 生成模型 & MMGeneration](#18-生成模型--mmgeneration)
-- [19. Pytorch & General](#19-pytorch--general)
-
-
-
+- [11. 底层视觉 & MMEditing](#11-视频和图像编辑--mmediting)
+- [6. 姿态估计 & MMPose](#6-姿态估计--mmpose)
+- [14. 人体参数化模型 & MMHuman3D](#14-人体参数化模型--mmhuman3d)
+- [16. 行为理解 & MMAction2](#16-行为理解--mmaction2)
+- [7. 视频追踪 & MMTracking](#7-视频感知--mmtracking)
+- [17. 光学字符识别 & MMOCR](#17-文本检测识别理解--mmocr)
+- [8. 光流估计 & MMFlow](#8-光流估计--mmflow)
+- [15. 少样本学习 & MMFewShot](#15-少样本学习--mmfewshot)
+- [10. 自监督学习 & MMSelfSup](#10-自监督学习--mmselfsup)
+- [13. 模型压缩 & MMRazor](#13-模型压缩--mmrazor)
+- [5. 模型部署 & MMdeploy](#5-模型部署--mmdeploy)
+- [19. Python & Pytorch 底层机制解读](#19-pytorch--general)
+- [20. 其他]()
 
 
 
@@ -552,21 +550,3 @@
 - \[2021/03/03\] [# 我想成为一个开源代码贡献者，我该怎么做？](https://www.zhihu.com/answer/1759679319)
 - \[2021/02/21\] [# 在校生如何在开源社区中成长？](https://www.zhihu.com/answer/1740864956)
 - \[2021/02/09\] [# 如何运营一个开源项目并取得较大影响力？](https://www.zhihu.com/answer/1722994874)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
