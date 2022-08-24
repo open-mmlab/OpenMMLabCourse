@@ -50,11 +50,13 @@ OpenMMLab course index and materials
 
 
 
-## 代码库视频教程
+## 项目案例教学
 
-|                                 项目内容                                 |                                                                        代码教学                                                                         |
-| :----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [人像自拍秒变爆款动漫画风](https://www.bilibili.com/video/BV1XL4y1g7in/) | [![Link](https://i0.hdslb.com/bfs/archive/f9972114f65e0bc121619e51720680c461a7b913.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1XL4y1g7in/) |
+|                                  项目内容                                  |                                                                        代码教学                                                                         |
+| :------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  [人像自拍秒变爆款动漫画风](https://www.bilibili.com/video/BV1XL4y1g7in/)  | [![Link](https://i0.hdslb.com/bfs/archive/f9972114f65e0bc121619e51720680c461a7b913.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1XL4y1g7in/) |
+| [CycleGAN照片转梵高莫奈油画](https://www.bilibili.com/video/BV1wv4y1T71F/) | [![Link](https://i2.hdslb.com/bfs/archive/56a953accbb30ea29408a105aeb7dd406058e8f1.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1wv4y1T71F/) |
+
 
 
 ## 校园讲座
