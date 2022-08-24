@@ -24,7 +24,7 @@ OpenMMLab course index and materials
 | 第16讲 | 模型压缩与 MMRazor | In Comming |          |        |
 | 第17讲 | 模型部署与 MMDeploy | In Comming |          |           |
 
-## 代码实践项目
+## 代码库视频教程
 
 |       |                                 项目内容                                  |                                                                       代码教学                                                                       |
 | :---: | :-----------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
@@ -42,3 +42,27 @@ OpenMMLab course index and materials
 | 1 | [OpenMMLab @ 华东理工大学 - 计算机视觉概述与OpenMMLab应用](https://www.bilibili.com/video/BV1Gb4y1B7D4/) | [![Link](https://i1.hdslb.com/bfs/archive/ddd84ad01eb96ad12a272d345d4de3d16d12295b.jpg@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1Gb4y1B7D4/) |
 | 2 | [OpenMMLab @ 上海交通大学 - 图像分类与目标检测算法综述](https://www.bilibili.com/video/BV1ou411k7fD/) | [![Link](https://i1.hdslb.com/bfs/archive/c8356c5400de7ba50f32a2e26e8c77563e46e353.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1ou411k7fD/) |
 | 3 | [OpenMMLab @ 上海交通大学 - 手把手带你跑通MMDetection](https://www.bilibili.com/video/BV1NL4y1c7ki/) | [![Link](https://i1.hdslb.com/bfs/archive/c8356c5400de7ba50f32a2e26e8c77563e46e353.png@336w_190h_1c.webp)](https://www.bilibili.com/video/BV1NL4y1c7ki/) |
+
+
+## 技术文章
+
+- [1. 基础架构 & MMCV](./articles.md/#1-基础架构--mmcv)
+- [2. 目标检测 & MMDetection](./articles.md/#2-目标检测--mmdetection)
+- [3. 3D目标检测 & MMDetection3D](./articles.md/#3-3d目标检测--mmdetection3d)
+- [4. 旋转框检测 & MMRotate](./articles.md/#4-旋转框检测--mmrotate)
+- [5. 图像分类 & MMClassification](./articles.md/#5-图像分类--mmclassification)
+- [6. 语义分割 & MMSegmentation](./articles.md/#6-语义分割--mmsegmentation)
+- [7. 生成模型 & MMGeneration](./articles.md/#7-生成模型--mmgeneration)
+- [8. 底层视觉 & MMEditing](./articles.md/#8-底层视觉--mmediting)
+- [9. 姿态估计 & MMPose](./articles.md/#9-姿态估计--mmpose)
+- [10. 人体参数化模型 & MMHuman3D](./articles.md/#10-人体参数化模型--mmhuman3d)
+- [11. 行为理解 & MMAction2](./articles.md/#11-行为理解--mmaction2)
+- [12. 视频追踪 & MMTracking](./articles.md/#12-视频追踪--mmtracking)
+- [13. 光学字符识别 & MMOCR](./articles.md/#13-光学字符识别--mmocr)
+- [14. 光流估计 & MMFlow](./articles.md/#14-光流估计--mmflow)
+- [15. 少样本学习 & MMFewShot](./articles.md/#15-少样本学习--mmfewshot)
+- [16. 自监督学习 & MMSelfSup](./articles.md/#16-自监督学习--mmselfsup)
+- [17. 模型压缩 & MMRazor](./articles.md/#17-模型压缩--mmrazor)
+- [18. 模型部署 & MMdeploy](./articles.md/#18-模型部署--mmdeploy)
+- [19. Python & Pytorch 底层机制解读](./articles.md/#19-python--pytorch-底层机制解读)
+- [20. 其他](./articles.md/#20-其他)
