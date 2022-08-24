@@ -121,22 +121,20 @@
 <!--- [<img src="https://github.com/open-mmlab/mmsegmentation/blob/master/resources/mmseg-logo.png" height="36">](https://github.com/open-mmlab/mmsegmentation) --->
 
 
-| 标题 | 类型 | 知乎 | 公众号 | 发表日期 |
-|--|--|--|--|--|
-| 带你轻松掌握 MMSegmentation 整体构建流程 | 文章 | [# 超详细！带你轻松掌握 MMSegmentation 整体构建流程](https://zhuanlan.zhihu.com/p/520397255) | [# 带你轻松掌握 MMSegmentation 整体构建流程](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247491287&idx=1&sn=9fc68e8ebfcddccc0bed8b04c19f010f&chksm=ebb51635dcc29f23eaa4921f50c76ec289afb00ca64f8d61eefbc573382910c2753652dedf9a&token=1125533908&lang=zh_CN#rd) | 2022/05/26 |
-| 带你轻松用 MMSegmentation 跑语义分割数据集 | 文章 | [# 超详细！手把手带你轻松用 MMSegmentation 跑语义分割数据集](https://zhuanlan.zhihu.com/p/525422379) | [# 带你轻松用 MMSegmentation 跑语义分割数据集](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247492283&idx=1&sn=98cb851af0792abce002fc81a4cd48bd&chksm=ebb6ea59dcc1634fc14d6c3becd541ea0d97561638bdb755c1b9d5b6ca81c5d5b8366f9959c4&token=1125533908&lang=zh_CN#rd) | 2022/06/07 |
-| 社区精选 OpenMMLab 为什么要引入 Hook 机制嘞？ | 文章 | [# 解读 OpenMMLab 的 Hook 机制](https://zhuanlan.zhihu.com/p/387483425) | [# 社区精选 OpenMMLab 为什么要引入 Hook 机制嘞？](https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247484406&idx=1&sn=b6bd379fa1031e436dc3c306482201cd&chksm=ebb50b14dcc28202d054c9db0b28918ad4646187f086bf961f3fb48e61a89e2a8fed4137dd60&token=1125533908&lang=zh_CN#rd) | 2021/09/17 |
-| 语义分割该如何走下去？ | 问答 | [# 语义分割该如何走下去？](https://www.zhihu.com/answer/2532479123) | | 2022/06/17 |
-| 研究生图像分割怎么学习？ | 问答 | [# 研究生图像分割怎么学习？](https://www.zhihu.com/answer/2188347132) | | 2021/10/25 |
-| 大佬们，我刚开始接触图像分割，对于图像分割深度学习这块一头雾水，可以给出一个从零开始学习的路线吗？ | 问答 | [# 大佬们，我刚开始接触图像分割，对于图像分割深度学习这块一头雾水，可以给出一个从零开始学习的路线吗？](https://www.zhihu.com/answer/2120515790) | | 2021/09/14 |
-| 医学图像分割请问要分割出目标，想先确定目标区域，然后在区域中提取目标应该怎么预处理图片呢？ | 问答 | [# 医学图像分割请问要分割出目标，想先确定目标区域，然后在区域中提取目标应该怎么预处理图片呢？](https://www.zhihu.com/answer/1916793153) | | 2021/06/01 |
-| 刚上研一，方向是医学影像处理，课题是关于分割的，但是毫无头绪，求问怎么学习图像分割？ | 问答 | [# 刚上研一，方向是医学影像处理，课题是关于分割的，但是毫无头绪，求问怎么学习图像分割？](https://www.zhihu.com/answer/1860816906) | | 2021/04/29 |
-| 研一学生，准备做有关医学图像分割的内容，想请教一下大家，创新点都有从哪些方面研究，谢谢大家了！? | 问答 | [# 研一学生，准备做有关医学图像分割的内容，想请教一下大家，创新点都有从哪些方面研究，谢谢大家了！?](https://www.zhihu.com/answer/1841253967) | | 2021/04/18 |
-| 为啥U-Net训练数据得到的是全黑的图？ | 问答 | [# 为啥U-Net训练数据得到的是全黑的图？](https://www.zhihu.com/answer/1650919034) | | 2020/12/29 |
-| 图像语义分割如何下手？算法如何实现？ | 问答 | [# 图像语义分割如何下手？算法如何实现？](https://www.zhihu.com/answer/1625973937) | | 2020/12/14 |
-| 图像处理方向打算做分割，导师让着手实验，从最简单的单层网络开始入手，有没有师兄师姐建议怎么开始呀？ | 问答 | [# 图像处理方向打算做分割，导师让着手实验，从最简单的单层网络开始入手，有没有师兄师姐建议怎么开始呀？](https://www.zhihu.com/answer/1624600717) | | 2020/12/13 |
-| 有关语义分割的奇技淫巧有哪些？ | 问答 | [# 有关语义分割的奇技淫巧有哪些？](https://www.zhihu.com/answer/1621508656) | | 2020/12/11 |
-| 语义分割该如何走下去？ | 问答 | [# 语义分割该如何走下去？](https://www.zhihu.com/answer/2532479123) | | 2022/06/17 |
+- \[2022/05/26\][# 超详细！带你轻松掌握 MMSegmentation 整体构建流程](https://zhuanlan.zhihu.com/p/520397255)
+- \[2022/06/07\][# 超详细！手把手带你轻松用 MMSegmentation 跑语义分割数据集](https://zhuanlan.zhihu.com/p/525422379)
+- \[2021/09/17\][# 解读 OpenMMLab 的 Hook 机制](https://zhuanlan.zhihu.com/p/387483425)
+- \[2022/06/17\][# 语义分割该如何走下去？](https://www.zhihu.com/answer/2532479123)
+- \[2021/10/25\][# 研究生图像分割怎么学习？](https://www.zhihu.com/answer/2188347132)
+- \[2021/09/14\][# 大佬们，我刚开始接触图像分割，对于图像分割深度学习这块一头雾水，可以给出一个从零开始学习的路线吗？](https://www.zhihu.com/answer/2120515790)
+- \[2021/06/01\][# 医学图像分割请问要分割出目标，想先确定目标区域，然后在区域中提取目标应该怎么预处理图片呢？](https://www.zhihu.com/answer/1916793153)
+- \[2021/04/29\][# 刚上研一，方向是医学影像处理，课题是关于分割的，但是毫无头绪，求问怎么学习图像分割？](https://www.zhihu.com/answer/1860816906)
+- \[2021/04/18\][# 研一学生，准备做有关医学图像分割的内容，想请教一下大家，创新点都有从哪些方面研究，谢谢大家了！?](https://www.zhihu.com/answer/1841253967)
+- \[2020/12/29\][# 为啥U-Net训练数据得到的是全黑的图？](https://www.zhihu.com/answer/1650919034)
+- \[2020/12/14\][# 图像语义分割如何下手？算法如何实现？](https://www.zhihu.com/answer/1625973937)
+- \[2020/12/13\][# 图像处理方向打算做分割，导师让着手实验，从最简单的单层网络开始入手，有没有师兄师姐建议怎么开始呀？](https://www.zhihu.com/answer/1624600717)
+- \[2020/12/11\][# 有关语义分割的奇技淫巧有哪些？](https://www.zhihu.com/answer/1621508656)
+- \[2022/06/17\][# 语义分割该如何走下去？](https://www.zhihu.com/answer/2532479123)
 
 
 
