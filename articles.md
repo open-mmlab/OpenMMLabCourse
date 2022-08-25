@@ -242,6 +242,7 @@
 - \[2022/06/29\] [# 基于光流的视频插帧算法 TOFlow 解读教程](https://zhuanlan.zhihu.com/p/535492591)
 - \[2020/12/09\] [# 传统的图像修复和利用深度学习的图像修复的优缺点比较？](https://www.zhihu.com/answer/1618198292)
 - \[2021/04/16\] [# 新视频超分算法来了：CVPR 2021 & NTIRE2021 冠军](https://zhuanlan.zhihu.com/p/364872992)
+- \[2022/08/24\] [# 图像超分经典网络 SRGAN 解析 ,教你把 GAN 运用在其他视觉任务上](https://zhuanlan.zhihu.com/p/557395303)
 
 
 
