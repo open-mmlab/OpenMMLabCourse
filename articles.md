@@ -112,7 +112,8 @@
 - \[2021/06/21\] [# MMDetection 图像缩放 Resize 详细说明](https://zhuanlan.zhihu.com/p/381117525)
 - \[2021/06/30\] [# 轻松掌握 MMDetection 中常用算法(九)：AutoAssign](https://zhuanlan.zhihu.com/p/378581552)
 - \[2021/09/26\] [# 手把手带你实现经典检测网络 Mask R-CNN 的推理](https://zhuanlan.zhihu.com/p/414082071)
-
+- \[2022/08/31\] [# MMDetection 支持数据增强神器 Simple Copy Paste 全过程](https://zhuanlan.zhihu.com/p/559940982)
+- \[2022/09/22\] [# 与社区共建，MMYOLO 全新开源！直播亮点抢先看](https://zhuanlan.zhihu.com/p/566838909)
 
 
 
@@ -553,6 +554,10 @@
 - \[2021/03/03\] [# 我想成为一个开源代码贡献者，我该怎么做？](https://www.zhihu.com/answer/1759679319)
 - \[2021/02/21\] [# 在校生如何在开源社区中成长？](https://www.zhihu.com/answer/1740864956)
 - \[2021/02/09\] [# 如何运营一个开源项目并取得较大影响力？](https://www.zhihu.com/answer/1722994874)
+- \[2022/09/02\] [# “OpenXLab浦源”人工智能开源开放体系发布，九大项目共建生态 &#124; WAIC 2022](https://zhuanlan.zhihu.com/p/560625262)
+- \[2022/09/07\] [# 社区开放麦 20 期啦！往期知识一览！](https://zhuanlan.zhihu.com/p/562256314)
+- \[2022/09/14\] [# 重点已划好！OpenMMLab 8 月动态一览](https://zhuanlan.zhihu.com/p/564413212)
+- \[2022/09/17\] [# OpenMMLab 2.0：新架构、新算法、新生态](https://zhuanlan.zhihu.com/p/565106513)
 
 
 
