@@ -25,6 +25,7 @@ OpenMMLab course index and materials
 | 第17讲 |                                          模型部署与 MMDeploy                                          |                                                                         In Comming                                                                         |                                                                                                                                                            |                                                                                |
 
 ## MMYOLO 系列视频
+MMYOLO 系列视频是 MMYOLO 开发者和社区小伙伴们一起录制和分享的教学视频，希望能对您学习和使用 MMYOLO 有一定帮助。
 详情见 [MMYOLO 系列视频](mmyolo.md)
 
 ## 技术文章
