@@ -24,6 +24,9 @@ OpenMMLab course index and materials
 | 第16讲 |                                          模型压缩与 MMRazor                                           |                                                                         In Comming                                                                         |                                                                                                                                                            |                                                                                |
 | 第17讲 |                                          模型部署与 MMDeploy                                          |                                                                         In Comming                                                                         |                                                                                                                                                            |                                                                                |
 
+## MMYOLO 系列视频
+详情见 [MMYOLO 系列视频](mmyolo.md)
+
 ## 技术文章
 
 - [1. 基础架构 & MMCV](./articles.md/#1-基础架构--mmcv)
