@@ -4,6 +4,7 @@ MMYOLO 系列视频是 MMYOLO 开发者和社区小伙伴们一起录制和分�
 
 MMYOLO 官方地址： https://github.com/open-mmlab/mmyolo/  
 MMYOLO Roadmap 反馈地址： https://github.com/open-mmlab/mmyolo/issues/136
+MMYOLO 系列视频地址： https://space.bilibili.com/1293512903/channel/collectiondetail?sid=788924
 
 ## 工具类
 
