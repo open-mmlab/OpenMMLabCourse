@@ -1,3 +1,5 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-slate
+show_downloads: false
+google_analytics:
 plugins:
   - jekyll-readme-index
