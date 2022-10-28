@@ -1,13 +1,9 @@
-@import "jekyll-theme-slate";
+@import "{{ site.theme }}";
 
 td {
     vertical-align: middle !important;
 }
 
 .inner {
-    max-width: 960px !important;
-}
-
-abcdefg {
     max-width: 960px !important;
 }

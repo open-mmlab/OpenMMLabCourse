@@ -3,4 +3,3 @@ show_downloads: false
 google_analytics:
 plugins:
   - jekyll-readme-index
-  - jekyll-remote-theme
