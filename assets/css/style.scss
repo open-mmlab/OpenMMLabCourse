@@ -1,3 +1,5 @@
+@import "{{ site.theme }}";
+
 td {
     vertical-align: middle !important;
 }
@@ -5,11 +7,3 @@ td {
 .inner {
     max-width: 960px !important;
 }
-
-
-sb {
-    test: aaa;
-}
-
-
-@import "{{ site.theme }}";
