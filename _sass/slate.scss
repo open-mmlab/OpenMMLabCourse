@@ -1,0 +1,12 @@
+// Placeholder file. If your site uses
+//     @import "{{ site.theme }}";
+// Then using this theme with jekyll-remote-theme will work fine.
+@import "jekyll-theme-slate";
+
+
+.inner {
+    position: relative;
+    max-width: 960px;
+    padding: 20px 10px;
+    margin: 0 auto;
+}
