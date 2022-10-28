@@ -4,9 +4,9 @@
 @import "jekyll-theme-slate";
 
 td {
-    vertical-align: middle;
+    vertical-align: middle !important;
 }
 
 .inner {
-    max-width: 960px;
+    max-width: 960px !important;
 }
