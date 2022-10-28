@@ -1,5 +1,3 @@
-@import "{{ site.theme }}";
-
 td {
     vertical-align: middle !important;
 }
@@ -12,3 +10,6 @@ td {
 sb {
     test: aaa;
 }
+
+
+@import "{{ site.theme }}";
