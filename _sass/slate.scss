@@ -3,10 +3,10 @@
 // Then using this theme with jekyll-remote-theme will work fine.
 @import "jekyll-theme-slate";
 
+td {
+    vertical-align: middle;
+}
 
 .inner {
-    position: relative;
     max-width: 960px;
-    padding: 20px 10px;
-    margin: 0 auto;
 }
