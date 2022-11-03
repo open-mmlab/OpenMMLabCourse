@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+td {
+    vertical-align: middle !important;
+}
+
+.inner {
+    max-width: 960px !important;
+}
