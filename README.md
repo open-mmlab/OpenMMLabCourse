@@ -37,6 +37,11 @@ OpenMMLab course index and materials
 MMYOLO 系列视频是 MMYOLO 开发者和社区小伙伴们一起录制和分享的教学视频，希望能对您学习和使用 MMYOLO 有一定帮助。
 详情见 [MMYOLO 系列视频](mmyolo.md)
 
+## MMEval 系列视频
+
+MMEval 是一个跨框架算法评测库，MMEval 系列视频将会给大家介绍解读 MMEval 相关的内容。
+详情见 [MMEval 系列视频](mmeval.md)
+
 ## 技术文章
 
 - [1. 基础架构 & MMCV](./articles.md/#1-基础架构--mmcv)
