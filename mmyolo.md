@@ -23,7 +23,7 @@ MMYOLO 系列视频地址： https://space.bilibili.com/1293512903/channel/colle
 
 |       |     内容     |                                                                         视频                                                                          |                               课程中的代码/文档                               |
 | :---: | :----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-| 第1期 | 源码调试技巧 | [![Link](http://i0.hdslb.com/bfs/archive/081f300c84d6556f40d984cfbe801fc0644ff449.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1N14y1V7mB) | [`源码调试技巧`文档](https://zhuanlan.zhihu.com/p/580885852)|
+| 第1期 | 源码调试技巧 | [![Link](http://i2.hdslb.com/bfs/archive/790d2422c879ff20488910da1c4422b667ea6af7.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1N14y1V7mB) | [`源码调试技巧`文档](https://zhuanlan.zhihu.com/p/580885852)|
 | 第2期 | 10分钟换遍主干网络 | [![Link](http://i0.hdslb.com/bfs/archive/c51f1aef7c605856777249a7b4478f44bd69f3bd.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1JG4y1d7GC) | [10分钟换遍主干网络.ipynb](codes/MMYOLO_tutorials/[实用类第二期]10分钟换遍主干网络.ipynb) |
 
 ## 源码解读类
