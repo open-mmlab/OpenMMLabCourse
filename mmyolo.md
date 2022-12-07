@@ -11,7 +11,7 @@ MMYOLO 系列视频地址： https://space.bilibili.com/1293512903/channel/colle
 |       |     内容     |                                                                          视频                                                                          |                               课程中的代码/文档                               |
 | :---: | :----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
 | 第1讲 | 特征图可视化 | [![Link](https://i2.hdslb.com/bfs/archive/480a0eb41fce26e0acb65f82a74501418eee1032.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV188411s7o8) | [特征图可视化.ipynb](codes/MMYOLO_tutorials/[工具类第一期]特征图可视化.ipynb) |
-| 第2讲 | 基于 sahi 的大图推理 | [![Link](https://i0.hdslb.com/bfs/archive/62c41f508dbcf63a4c721738171612d2d7069ac2.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1EK411R7Ws/) | [10分钟轻松掌握大图推理](codes/MMYOLO_tutorials/[工具类第二期]10分钟轻松掌握大图推理.ipynb) |
+| 第2讲 | 基于 sahi 的大图推理 | [![Link](https://i0.hdslb.com/bfs/archive/62c41f508dbcf63a4c721738171612d2d7069ac2.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1EK411R7Ws/) | [10分钟轻松掌握大图推理.ipynb](codes/MMYOLO_tutorials/[工具类第二期]10分钟轻松掌握大图推理.ipynb) |
 
 ## 基础类
 
