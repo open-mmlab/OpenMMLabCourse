@@ -22,10 +22,12 @@ MMYOLO 系列视频地址： https://space.bilibili.com/1293512903/channel/colle
 
 ## 实用类
 
-|       |     内容     |                                                                         视频                                                                          |                               课程中的代码/文档                               |
-| :---: | :----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-| 第1期 | 源码调试技巧 | [![Link](http://i2.hdslb.com/bfs/archive/790d2422c879ff20488910da1c4422b667ea6af7.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1N14y1V7mB) | [`源码调试技巧`文档](https://zhuanlan.zhihu.com/p/580885852)|
-| 第2期 | 10分钟换遍主干网络 | [![Link](http://i0.hdslb.com/bfs/archive/c51f1aef7c605856777249a7b4478f44bd69f3bd.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1JG4y1d7GC) | [10分钟换遍主干网络.ipynb](codes/MMYOLO_tutorials/[实用类第二期]10分钟换遍主干网络.ipynb) |
+|       |                内容                |                             视频                             |                      课程中的代码/文档                       |
+| :---: | :--------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 第1期 |            源码调试技巧            | [![Link](http://i2.hdslb.com/bfs/archive/790d2422c879ff20488910da1c4422b667ea6af7.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1N14y1V7mB) | [`源码调试技巧`文档](https://zhuanlan.zhihu.com/p/580885852) |
+| 第2期 |         10分钟换遍主干网络         | [![Link](http://i0.hdslb.com/bfs/archive/c51f1aef7c605856777249a7b4478f44bd69f3bd.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1JG4y1d7GC) | [10分钟换遍主干网络.ipynb](codes/MMYOLO_tutorials/[实用类第二期]10分钟换遍主干网络.ipynb) |
+| 第3期 | 自定义数据集从标注到部署保姆级教程 | [![Link](http://i2.hdslb.com/bfs/archive/13f566c89a18c9c881713b63ec14da952d4c0b14.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1RG4y137i5) | [`自定义数据集从标注到部署保姆级教程`文档](https://zhuanlan.zhihu.com/p/595497726) |
+| 第4期 |      顶会第一步 · 模块自定义       | [![Link](http://i2.hdslb.com/bfs/archive/5b23d41ac57466824eaf185ef806ef734414e93b.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1yd4y1j7VD) | [顶会第一步·模块自定义.ipynb](codes/MMYOLO_tutorials/[实用类第四期]顶会第一步·模块自定义.ipynb) |
 
 ## 源码解读类
 
