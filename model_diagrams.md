@@ -9,10 +9,9 @@
 1. YOLOX
 作者：[lyviva](https://github.com/lyviva)
 <div align=center>
-<img src="https://user-images.githubusercontent.com/71306851/208933940-ffcd2f53-7630-4c7e-bf0d-695eb3cfe851.jpg"/>
+<img src="https://user-images.githubusercontent.com/71306851/218628641-6c0101e6-e40e-4b16-a696-c0f55b8d335c.png"/>
 YOLOX_l-P5
 </div>
-
 
 2. YOLOv7
 作者：[Audrey528](https://github.com/Audrey528)
