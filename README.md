@@ -1,6 +1,8 @@
 # OpenMMLabCourse
 
-OpenMMLab course index and materials
+This repository hosts articles, lectures and tutorials on computer vision and OpenMMLab, helping learners to understand algorithms and master our toolboxes in a systematical way.
+
+OpenMMLab team own the copyright of all these articles, videos and tutorial codes. Please contact [openmmlab at gmail.com] for collaborations if you hope to deliver courses in universities based on our materials. 
 
 ## 上海交大×商汤科技【OpenMMLab实践公开课】
 
